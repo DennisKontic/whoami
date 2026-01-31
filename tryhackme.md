@@ -7,8 +7,8 @@
 
 <br>
 
-<a href="https://tryhackme.com/p/DennisKontic">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/DennisKontic.png" alt="TryHackMe Badge" width="600">
+<a href="https://tryhackme.com/p/DonkeySec">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DonkeySec.png" alt="TryHackMe Badge" width="600">
 </a>
 
 </div>
@@ -39,6 +39,6 @@ I actively maintain a ranking within the **Top 1%** of over 3 million users on t
 
 <div align="center">
 
-**[ ⬅️ Return to Main Profile ](https://github.com/DennisKontic/DennisKontic)**
+**[ ⬅️ Return to Main Profile ](https://github.com/DennisKontic/Certifications-Accomplishments)**
 
 </div>
