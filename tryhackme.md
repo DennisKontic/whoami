@@ -41,9 +41,9 @@ I actively maintain a ranking within the **Top 1%** of the platform, focusing he
 
 | Path | Focus Areas | Date Issued |
 | :--- | :--- | :--- |
-| **Attacking and Defending AWS** | Compromising EC2, Reducing Policy Privileges, Abusing Lambda, Enumerating IAM. | *May 11, 2025* |
-| **Defending Azure** | KQL for Threat Detection, Sentinel Monitoring, Defender for Endpoint. | *April 25, 2025* |
-| **SOC Level 1** | SIEM Incident Handling, Endpoint Monitoring, Web Attacks. | *August 14, 2024* |
+| **Attacking and Defending AWS** | Compromising EC2, Reducing Policy Privileges, Abusing Lambda, Enumerating IAM. | *May&nbsp;11,&nbsp;2025* |
+| **Defending Azure** | KQL for Threat Detection, Sentinel Monitoring, Defender for Endpoint. | *April&nbsp;25,&nbsp;2025* |
+| **SOC Level 1** | SIEM Incident Handling, Endpoint Monitoring, Web Attacks. | *August&nbsp;14,&nbsp;2024* |
 
 ---
 
