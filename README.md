@@ -59,3 +59,13 @@ const Dennis = {
         "Google Cybersecurity Cert"
     ]
 };
+
+🕹️ TryHackMe Stats
+
+<a href="https://www.google.com/search?q=https://tryhackme.com/p/DennisKontic">
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3192102" alt="TryHackMe Badge">
+
+</a>
+
+ 
