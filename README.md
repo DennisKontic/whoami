@@ -4,11 +4,11 @@
 
 ### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
 
-<a href="[https://www.youtube.com/@DonkeySec/videos](https://www.youtube.com/@DonkeySec/videos)">
-  <img src="[https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" alt="DonkeySec YouTube">
+<a href="https://www.youtube.com/@DonkeySec/videos">
+  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
 </a>
 <a href="mailto:denniskontic@yahoo.com">
-  <img src="[https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
+  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
