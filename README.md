@@ -2,13 +2,13 @@
 
 # 🙋‍♂️ Hi, I’m Dennis and I created DonkeySec!
 
-### Blue Team Operations | Content Creator | Ethical Hacking
+### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
 
-<a href="https://www.youtube.com/@DonkeySec/videos">
-  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
+<a href="[https://www.youtube.com/@DonkeySec/videos](https://www.youtube.com/@DonkeySec/videos)">
+  <img src="[https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" alt="DonkeySec YouTube">
 </a>
 <a href="mailto:denniskontic@yahoo.com">
-  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="[https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
 </a>
 
 </div>
@@ -44,7 +44,8 @@ const Dennis = {
         "SOC Operations",
         "Threat Hunting",
         "Malware Analysis",
-        "Detection Engineering"
+        "Detection Engineering",
+        "Ethical Hacking"
     ],
     certifications: [
         "CompTIA Security+",
@@ -59,3 +60,10 @@ const Dennis = {
         "Google Cybersecurity Cert"
     ]
 };
+
+<div align="center">
+
+🕹️ TryHackMe Stats
+<a href="https://tryhackme.com/p/DennisKontic">
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3192102" alt="TryHackMe Badge">
+</a>
