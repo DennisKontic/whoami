@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hi, I’m Dennis and I created DonkeySec!
 
-### 🛡️ Blue Team Operations | Content Creator | Ethical Hacking | Cybersecurity Student
+### Blue Team Operations | Content Creator | Ethical Hacking
 
 <a href="https://www.youtube.com/@DonkeySec/videos">
   <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
