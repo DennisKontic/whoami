@@ -10,13 +10,22 @@
 
 <br><br>
 
-| [💼 Experience](./experience.md) | [🏆 Certifications](./certifications.md) | [🎓 Education](./education.md) |
-| :---: | :---: | :---: |
-| **[📽️ Projects](./projects.md)** | **[🏅 Honors](./honors.md)** | **[🗣️ Testimonials](./testimonials.md)** |
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="33%"><h3><a href="experience.html">💼 Experience</a></h3></td>
+    <td align="center" width="33%"><h3><a href="certifications.html">🏆 Certifications</a></h3></td>
+    <td align="center" width="33%"><h3><a href="education.html">🎓 Education</a></h3></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><h3><a href="projects.html">📽️ Projects</a></h3></td>
+    <td align="center" width="33%"><h3><a href="honors.html">🏅 Honors</a></h3></td>
+    <td align="center" width="33%"><h3><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></h3></td>
+  </tr>
+</table>
 
 </div>
 
-<br>
+---
 
 ### **About Me**
 
