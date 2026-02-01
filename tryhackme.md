@@ -23,11 +23,11 @@ title: 🛡️ My TryHackMe Journey
     transform: scale(1.05);    /* Slight pop effect */
   }
 
-  /* This forces the resume lines to be black */
+  /* Updated: Resume lines changed to Red */
   hr {
     border: none;
     height: 2px;
-    background-color: #000000;
+    background-color: #ff0055;
     margin: 20px 0;
   }
 </style>
