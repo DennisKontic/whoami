@@ -7,6 +7,12 @@
   <div class="contact-card">
     <a href="mailto:denniskontic@yahoo.com">✉ Email Me</a>
   </div>
+  <div class="contact-card" style="background-color: #8A2BE2;">
+    <a href="https://docs.google.com/document/d/1n_OMmL8llgwFYdUIwp4xsm-beH-if5q9O1ASf1aan3I/edit?tab=t.0" style="color: white;">📄 View My Resume</a>
+  </div>
+  <div class="contact-card" style="background-color: #8A2BE2;">
+    <a href="https://linktr.ee/DonkeySec" style="color: white;">🌐 DonkeySec Socials</a>
+  </div>
 </div>
 
 <br>
