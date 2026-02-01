@@ -19,83 +19,84 @@ body {
 /* 3. HEADER - BLUE GRADIENT */
 .page-header {
   background-image: linear-gradient(135deg, #000000 0%, #001f3f 100%) !important;
-  border-bottom: 4px solid #00d4ff; /* Bright Blue Line */
+  border-bottom: 4px solid #00d4ff;
   text-align: center !important;
+  padding: 3rem 2rem;
 }
 
 .project-name {
   color: #ffffff !important;
-  text-shadow: 0 0 20px rgba(0, 212, 255, 0.8); /* Blue Glow */
+  text-shadow: 0 0 20px rgba(0, 212, 255, 0.8);
   font-size: 3.5rem;
+  margin-bottom: 10px;
 }
 
 .project-tagline {
   color: #ffffff !important;
   font-weight: bold;
   opacity: 1 !important;
+  font-size: 1.2rem;
 }
 
-/* 4. THE MENU - CENTERED & CARD STYLE */
-table {
-  width: auto !important; /* Shrink to fit content */
-  margin: 40px auto !important; /* FORCE CENTER */
-  border-collapse: separate !important;
-  border-spacing: 20px !important; /* Gaps between buttons */
-  background: transparent !important;
-  border: none !important;
+/* 4. THE FLEX MENU (PERFECT CENTERING) */
+.menu-container {
+  display: flex;
+  justify-content: center; /* Horizontally Center */
+  flex-wrap: wrap; /* Allow wrapping on small screens */
+  gap: 20px; /* Space between buttons */
+  max-width: 900px;
+  margin: 40px auto; /* Vertically Center in box */
 }
 
-td {
-  width: 200px; /* Fixed width for uniformity */
+.menu-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 220px; /* Fixed button width */
+  height: 80px;
   background-color: #0a0a0a;
   
-  /* DEFAULT STATE: BLUE TEAM (DEFENSE) */
-  border: 2px solid #00d4ff !important;
+  /* BLUE TEAM DEFAULT */
+  border: 2px solid #00d4ff;
   box-shadow: 0 0 10px rgba(0, 212, 255, 0.3);
+  border-radius: 12px;
   
-  border-radius: 15px;
-  padding: 20px !important;
-  text-align: center;
+  text-decoration: none !important;
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* 5. HOVER STATE: RED TEAM (OFFENSE/POP) */
-td:hover {
-  transform: translateY(-8px) scale(1.1); /* Jumps up */
-  
-  /* SWITCH TO RED */
-  border-color: #ff0055 !important;
-  box-shadow: 0 0 30px rgba(255, 0, 85, 0.8); /* Red Glow */
-  background-color: #1a0505; /* Slight red tint */
-}
-
-/* 6. LINK TEXT COLORS */
-td a {
-  text-decoration: none !important;
-  font-weight: 800;
-  font-size: 1.4rem;
+.menu-card a {
   color: #ffffff !important;
-  display: block;
+  font-weight: 800;
+  font-size: 1.2rem;
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Change text color on hover too */
-td:hover a {
+/* 5. HOVER EFFECT (RED TEAM POP) */
+.menu-card:hover {
+  transform: translateY(-8px) scale(1.05);
+  border-color: #ff0055; /* Switch to Red */
+  box-shadow: 0 0 30px rgba(255, 0, 85, 0.8);
+  background-color: #1a0505;
+}
+
+.menu-card:hover a {
   color: #ff0055 !important;
   text-shadow: 0 0 10px rgba(255, 0, 85, 0.8);
 }
 
-/* General Links */
-a {
-  color: #00d4ff !important;
-  text-decoration: none;
-}
-a:hover {
-  color: #ff0055 !important;
-}
-
-/* 7. CONTENT LAYOUT */
+/* 6. GENERAL CONTENT */
 .main-content {
   max-width: 1000px;
   margin: 0 auto;
   padding: 2rem;
+  text-align: left; /* Keep text readable */
 }
+
+a { color: #00d4ff !important; text-decoration: none; }
+a:hover { color: #ff0055 !important; }
