@@ -3,12 +3,15 @@ layout: default
 title: 📽️ Project Portfolio
 ---
 
-### All hands-on Blue Teaming and Red Teaming projects are documented here.
+<br>
 
----
-
-### 🛡️ DonkeySec YouTube
-**[📺 Click here to visit DonkeySec on YouTube](https://www.youtube.com/@DonkeySec/videos)**
+<div align="center">
+  <div class="contact-container">
+    <div class="contact-card">
+      <a href="https://www.youtube.com/@DonkeySec/videos">▶ Visit DonkeySec on YouTube</a>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -19,8 +22,6 @@ My YouTube channel serves as my living lab portfolio where I bridge the gap betw
 * 🛠️ **Hands-On Labs:** Developed 100% hands-on blue team lab exercises regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
 * 🎓 **Scenario Analysis:** Analyzed complex scenarios from **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online** and more to create practical lesson plans, translating advanced CTF challenges into accessible, step-by-step tutorials.
 * 🤝 **Community Leadership:** Built a supportive learning community, providing guidance to help aspiring analysts bridge the gap between theory and real-world application.
-
----
 
 <br>
 <div align="center">
