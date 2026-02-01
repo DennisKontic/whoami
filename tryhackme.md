@@ -3,6 +3,26 @@ layout: default
 title: 🛡️ My TryHackMe Journey
 ---
 
+<style>
+  .home-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #ff0000; /* Solid Red */
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .home-button:hover {
+    background-color: #0000ff; /* Solid Blue on hover */
+    transform: scale(1.05);    /* Slight pop effect */
+  }
+</style>
 
 ### 🏆 Ranked in the Top 1% Globally <span style="color: #FFD700;">[0xD][LEGEND]</span>
 *Executing Blue Team & Red Team scenarios.*
@@ -92,7 +112,8 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 * **First Four:** Completed 4 rooms in the first week
 
 <br>
+
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
+  <a href="index.html" class="home-button">⬅️ Return to Home</a>
 </div>
 <br>
