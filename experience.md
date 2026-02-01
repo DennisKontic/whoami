@@ -10,7 +10,7 @@
 
 ### 🛡️ DonkeySec
 **Founder & Content Creator** <br>
-*St. Charles, MO (Remote)* | *Present*
+*United States (Remote)* | *Present*
 
 * 📈 **Content Creation:** Created educational blue team content for **3,500+ practitioners**, averaging **20,000 impressions per month** across YouTube, TikTok, Instagram, and Facebook.
 * 🛠️ **Hands-On Labs:** Developed 100% hands-on blue team lab exercises regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
@@ -41,7 +41,7 @@
 
 ### ⚽ Other Experience
 **Soccer Referee** <br>
-*St. Charles, MO* | *July 2022 – Present*
+*United States* | *July 2022 – Present*
 
 * **Communication:** Led on-field communication among players, coaches, and officials to reduce miscommunication incidents by **50%** across thousands of matches.
 * **Team Coordination:** Coordinated the referee crew through pre-match briefings and in-game signals, achieving **95% call agreement** and keeping conflicting signals under 1% of decisions.
