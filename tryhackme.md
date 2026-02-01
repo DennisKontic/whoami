@@ -3,7 +3,7 @@ layout: default
 title: 🛡️ My TryHackMe Journey
 ---
 
-### 🏆 Ranked in the Top 1% Globally
+### 🏆 Ranked in the Top 1% Globally [0xD][LEGEND]
 *Executing Blue Team & Red Team scenarios.*
 
 <br>
