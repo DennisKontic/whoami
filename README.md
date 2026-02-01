@@ -32,43 +32,27 @@
 
 My existing experience includes pursuing a **B.S. in Cybersecurity (3.93 GPA)**, serving as an **Information Security Intern for Ascend Learning**, and an **IT Intern for St. Charles County Government**. This background has afforded me a unique skillset for Blue Team roles in Enterprise Security Operations, Public Sector IT, and Cybersecurity Education.
 
-✨ **My Projects:** Through **DonkeySec**, I analyze complex scenarios from platforms like HackTheBox, TryHackMe, and Blue Team Labs Online to create practical lesson plans. I translate advanced CTF challenges into accessible, step-by-step tutorials covering Digital Forensics, Incident Response, SOC, Threat Hunting, and Malware Analysis.
+---
+
+### **✨ My Projects**
+
+My projects at DonkeySec include working with platforms like **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online** and more.
+
+* 🔹 **Hands-On Development:** These platforms have given me insight and experiences to develop **100% hands-on blue team lab exercises** regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
+* 🔹 **Practical Tutorials:** I analyzed complex scenarios from these learning platforms to create practical lesson plans, translating advanced CTF challenges into accessible, step-by-step tutorials.
 
 ---
 
-### **// Technical Profile:**
+### **🎯 Professional Goal**
 
-```javascript
-const Dennis = {
-    founder: "DonkeySec",
-    education: {
-        university: "Lindenwood University",
-        major: "B.S. Cybersecurity",
-        gpa: 3.93
-    },
-    experience: [
-        "Ascend Learning (InfoSec Intern)",
-        "St. Charles County Gov (IT Intern)",
-        "Soccer Referee"
-    ],
-    skills: [
-        "Digital Forensics & Incident Response (DFIR)",
-        "SOC Operations",
-        "Threat Hunting",
-        "Malware Analysis",
-        "Detection Engineering",
-        "Ethical Hacking"
-    ],
-    certifications: [
-        "CompTIA Security+",
-        "CompTIA CySA+",
-        "CompTIA CSAP",
-        "Security Blue Team BTL1",
-        "HackTheBox CDSA",
-        "TryHackMe SAL1",
-        "CSA CCSK",
-        "CSA CCZT",
-        "ISC2 CC",
-        "Google Cybersecurity Cert"
-    ]
-};
+With a wide plethora of experience and certifications, I have become very accustomed to the tactical demands of the technical world. So my goal now is to leverage my background in cybersecurity to **secure enterprise environments against sophisticated threats.**
+
+### **🏆 Certifications Held**
+
+| | |
+| :--- | :--- |
+| **CompTIA** – Security+ | **TryHackMe** – SAL1 |
+| **CompTIA** – CySA+ | **Cloud Security Alliance** – CCSK |
+| **CompTIA** – CSAP | **Cloud Security Alliance** – CCZT |
+| **Security Blue Team** – BTL1 | **ISC2** – CC |
+| **HackTheBox** – CDSA | **Google** – Cybersecurity Certificate |
