@@ -30,7 +30,7 @@ title: 🎓 Education
 * **GPA:** 3.93 / 4.00
 * **Status:** First Generation Student
 
-<hr>
+<br>
 
 ### 🏅 Honors & Societies
 I have consistently maintained high academic standards, earning recognition in multiple honor societies and the Dean’s List for every year of attendance.
@@ -40,7 +40,7 @@ I have consistently maintained high academic standards, earning recognition in m
 * **Alpha Lambda Delta Academic Honor Society**
 * **Dean’s List:** 2023, 2024, 2025
 
-<hr>
+<br>
 
 <div align="center">
   <a href="index.html" class="home-button">⬅️ Return to Home</a>
