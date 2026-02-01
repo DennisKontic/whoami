@@ -25,7 +25,7 @@ title: 💼 Professional Experience
 </style>
 
 ### 🛡️ DonkeySec
-**Founder & Content Creator** *United States (Remote) | Present*
+**Founder & Content Creator** | *United States (Remote) | March 2025 - Present*
 
 * 📈 **Content Creation:** Created educational blue team content for **3,500+ practitioners**, averaging **20,000 impressions per month** across YouTube, TikTok, Instagram, and Facebook.
 * 🛠️ **Hands-On Labs:** Developed 100% hands-on blue team lab exercises regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
@@ -35,7 +35,7 @@ title: 💼 Professional Experience
 <br>
 
 ### 🏢 Ascend Learning
-**Information Security Intern** *Leawood, KS (Remote) | May 2025 – August 2025*
+**Information Security Intern** | *Leawood, KS (Remote) | May 2025 – August 2025*
 
 * **Phishing Analysis:** Investigated suspicious emails and analyzed malicious attachments in Any.Run and VirusTotal, successfully identifying and blocking **50+ credential harvesting campaigns**.
 * **SOC Operations:** Triaged and investigated **10+ security alerts daily** within a SIEM, maintaining a **99% accuracy rate** in initial classification and ensuring only verified high-risk incidents were escalated.
@@ -44,7 +44,7 @@ title: 💼 Professional Experience
 <br>
 
 ### 🏛️ St. Charles County Government
-**Information Technology Intern** *St. Charles, MO | August 2024 – October 2024*
+**Information Technology Intern** | *St. Charles, MO | August 2024 – October 2024*
 
 * **Technical Support:** Provided first-level technical support for over **10,000 users**, achieving a resolution rate of **80% within the first contact** and enhancing overall system uptime by **15%**.
 * **Vulnerability Management:** Assessed workstation security configurations, identified vulnerabilities, and implemented policy updates that improved compliance by **20%**.
@@ -53,7 +53,7 @@ title: 💼 Professional Experience
 <br>
 
 ### ⚽ Other Experience
-**Soccer Referee** *United States | July 2022 – Present*
+**Soccer Referee** | *United States | July 2022 – Present*
 
 * **Communication:** Led on-field communication among players, coaches, and officials to reduce miscommunication incidents by **50%** across thousands of matches.
 * **Team Coordination:** Coordinated the referee crew through pre-match briefings and in-game signals, achieving **95% call agreement** and keeping conflicting signals under 1% of decisions.
