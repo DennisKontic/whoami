@@ -22,14 +22,6 @@ title: 🛡️ My TryHackMe Journey
     background-color: #0000ff; /* Solid Blue on hover */
     transform: scale(1.05);    /* Slight pop effect */
   }
-
-  /* Updated: Resume lines changed to Red */
-  hr {
-    border: none;
-    height: 2px;
-    background-color: #ff0055;
-    margin: 20px 0;
-  }
 </style>
 
 ### 🏆 Ranked in the Top 1% Globally <span style="color: #FFD700;">[0xD][LEGEND]</span>
@@ -47,7 +39,7 @@ title: 🛡️ My TryHackMe Journey
   </div>
 </div>
 
-<hr>
+<br>
 
 ### 📊 Performance Statistics
 I actively maintain a ranking within the Top 1% of the platform, focusing heavily on Cloud Security, SOC Operations, and Incident Response.
@@ -56,7 +48,7 @@ I actively maintain a ranking within the Top 1% of the platform, focusing heavil
 | :--- | :--- | :--- | :--- |
 | **🏆 18,163** | **134** | **18** | **🛡️ Defender** |
 
-<hr>
+<br>
 
 ### 📜 Professional Certifications
 
@@ -66,7 +58,7 @@ I actively maintain a ranking within the Top 1% of the platform, focusing heavil
 * **Core Skills:** Cyber Defense Frameworks, Threat Detection, Alert Triage, Case Reporting.
 * **Featured Scenarios:** SOC Chaos B2, LockDown At Dark B1, Security Analyst Fundamentals.
 
-<hr>
+<br>
 
 ### ☁️ Path Completions
 
@@ -76,7 +68,7 @@ I actively maintain a ranking within the Top 1% of the platform, focusing heavil
 | **Defending Azure** | **Cloud Defense:** Utilizing KQL for advanced threat detection within Sentinel, monitoring logs via Log Analytics workspaces, and configuring Defender for Endpoint. | April 25, 2025 |
 | **SOC Level 1** | **Operations:** Mastering the incident lifecycle through SIEM log analysis, endpoint monitoring with EDR solutions, and investigating web attacks (OWASP Top 10). | August 14, 2024 |
 
-<hr>
+<br>
 
 ### 🎖️ Badge Collection
 I have earned **18 Badges**, including several Epic and Rare achievements for completing specific challenges and maintaining consistency.
@@ -91,7 +83,7 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 | **100% True Positive Rate** | Achieved perfect accuracy in a triage scenario. | 🔵 **Rare** (3.7%) |
 | **First Alert Closed** | Closing the first alert in a live simulation. | 🔵 **Rare** (5.4%) |
 
-<hr>
+<br>
 
 ### 🦈 Analysis & Network Skills
 
@@ -101,7 +93,7 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 | **Wireshark** | Competent with Wireshark & Packet Analysis. | 🔵 **Rare** (4.0%) |
 | **Phish Hunter** | Completed the Phishing Analysis series. | 🔵 **Rare** (4.2%) |
 
-<hr>
+<br>
 
 ### ⚔️ Challenge Rooms
 
@@ -111,7 +103,7 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 * **Friday Fixer** 🔵 (Rare 3.7%)
 * **Skilled Navigator** 🔵 (Rare 5.8%)
 
-<hr>
+<br>
 
 ### 📅 Milestones & Streaks
 * **Gold League:** 1st Place in Gold League
@@ -119,7 +111,7 @@ I have earned **18 Badges**, including several Epic and Rare achievements for co
 * **7 Day Streak:** Achieving a 7 day streak
 * **First Four:** Completed 4 rooms in the first week
 
-<hr>
+<br>
 
 <div align="center">
   <a href="index.html" class="home-button">⬅️ Return to Home</a>
