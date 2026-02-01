@@ -8,19 +8,66 @@
   <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="35">
 </a>
 
-<br><br>
-
-<table>
-  <tr>
-    <td><a href="experience.html">💼 Experience</a></td>
-    <td><a href="certifications.html">🏆 Certifications</a></td>
-    <td><a href="education.html">🎓 Education</a></td>
-  </tr>
-  <tr>
-    <td><a href="projects.html">📽️ Projects</a></td>
-    <td><a href="honors.html">🏅 Honors</a></td>
-    <td><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></td>
-  </tr>
-</table>
-
 </div>
+
+<br>
+
+<div class="menu-container">
+  <div class="menu-card"><a href="experience.html">💼 Experience</a></div>
+  <div class="menu-card"><a href="certifications.html">🏆 Certifications</a></div>
+  <div class="menu-card"><a href="education.html">🎓 Education</a></div>
+  <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
+  <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
+  <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
+</div>
+
+<br>
+<hr>
+
+### **About Me**
+
+✅ **I help thousands of practitioners sharpen their defensive skills** by translating complex Red Team attack lifecycles into hands-on Blue Team labs.  
+✅ With over **3,500 practitioners** engaging with my content and averaging **20,000 impressions per month**, we are constantly growing and advancing our education.
+
+My existing experience includes pursuing a **B.S. in Cybersecurity (3.93 GPA)**, serving as an **Information Security Intern for Ascend Learning**, and an **IT Intern for St. Charles County Government**. This background has afforded me a unique skillset for Blue Team roles in Enterprise Security Operations, Public Sector IT, and Cybersecurity Education.
+
+✨ **My Projects:** Through **DonkeySec**, I analyze complex scenarios from platforms like HackTheBox, TryHackMe, and Blue Team Labs Online to create practical lesson plans. I translate advanced CTF challenges into accessible, step-by-step tutorials covering Digital Forensics, Incident Response, SOC, Threat Hunting, and Malware Analysis.
+
+---
+
+### **// Technical Profile:**
+
+```javascript
+const Dennis = {
+    founder: "DonkeySec",
+    education: {
+        university: "Lindenwood University",
+        major: "B.S. Cybersecurity",
+        gpa: 3.93
+    },
+    experience: [
+        "Ascend Learning (InfoSec Intern)",
+        "St. Charles County Gov (IT Intern)",
+        "Soccer Referee"
+    ],
+    skills: [
+        "Digital Forensics & Incident Response (DFIR)",
+        "SOC Operations",
+        "Threat Hunting",
+        "Malware Analysis",
+        "Detection Engineering",
+        "Ethical Hacking"
+    ],
+    certifications: [
+        "CompTIA Security+",
+        "CompTIA CySA+",
+        "CompTIA CSAP",
+        "Security Blue Team BTL1",
+        "HackTheBox CDSA",
+        "TryHackMe SAL1",
+        "CSA CCSK",
+        "CSA CCZT",
+        "ISC2 CC",
+        "Google Cybersecurity Cert"
+    ]
+};
