@@ -49,9 +49,8 @@ With a wide plethora of experience and certifications, I have become very accust
 
 ### **🏆 Certifications Held**
 
-| | |
-| :--- | :--- |
 | **CompTIA** – Security+ | **TryHackMe** – SAL1 |
+| :--- | :--- |
 | **CompTIA** – CySA+ | **Cloud Security Alliance** – CCSK |
 | **CompTIA** – CSAP | **Cloud Security Alliance** – CCZT |
 | **Security Blue Team** – BTL1 | **ISC2** – CC |
