@@ -1,5 +1,5 @@
 title: Dennis Kontic
 description: Blue Team Operations | Content Creator | Ethical Hacking
 theme: jekyll-theme-slate
-show_downloads: false
-google_analytics:
+plugins:
+  - jekyll-seo-tag
