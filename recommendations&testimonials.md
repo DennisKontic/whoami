@@ -3,6 +3,27 @@ layout: default
 title: 🗣️ Recommendations & Testimonials
 ---
 
+<style>
+  .home-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #ff0000; /* Solid Red */
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border: none;
+    cursor: pointer;
+  }
+
+  .home-button:hover {
+    background-color: #0000ff; /* Solid Blue on hover */
+    transform: scale(1.05);    /* Slight pop effect */
+  }
+</style>
+
 ### 🤝 Professional Recommendations
 
 <div align="center">
@@ -68,7 +89,8 @@ title: 🗣️ Recommendations & Testimonials
 > “Oh now this is nice! Yeah I just subscribed.”
 
 <br>
+
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
+  <a href="index.html" class="home-button">⬅️ Return to Home</a>
 </div>
 <br>
