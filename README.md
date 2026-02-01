@@ -1,16 +1,17 @@
 <div align="center">
 
-<a href="https://www.youtube.com/@DonkeySec/videos">
-  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:denniskontic@yahoo.com">
-  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-</a>
+<div class="contact-container">
+  <div class="contact-card">
+    <a href="https://www.youtube.com/@DonkeySec/videos">▶ YouTube</a>
+  </div>
+  <div class="contact-card">
+    <a href="mailto:denniskontic@yahoo.com">✉ Email Me</a>
+  </div>
+</div>
 
-<br><br>
+<br>
 
-<div class="menu-container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div class="menu-container">
   <div class="menu-card"><a href="experience.html">💼 Experience</a></div>
   <div class="menu-card"><a href="certifications.html">🏆 Certifications</a></div>
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
