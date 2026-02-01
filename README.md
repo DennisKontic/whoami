@@ -2,21 +2,23 @@
 
 ### 🔵 Blue Team Operations | Content Creator | Ethical Hacking 🔴
 
-<a href="https://www.youtube.com/@DonkeySec/videos">
-  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
-</a>
-<a href="mailto:denniskontic@yahoo.com">
-  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br>
-<br>
-
-| ### [💼 Experience](./experience.md) | ### [🏆 Certifications](./certifications.md) | ### [🎓 Education](./education.md) |
-| :---: | :---: | :---: |
-| ### [📽️ Projects](./projects.md) | ### [🏅 Honors](./honors.md) | ### [🗣️ Testimonials](./testimonials.md) |
+[![](https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DonkeySec/videos)
+[![](https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniskontic@yahoo.com)
 
 ---
+
+### 📂 **Profile Navigation**
+
+* **[💼 Professional Experience](./experience.md)**
+* **[🏆 Certifications](./certifications.md)**
+* **[🎓 Education](./education.md)**
+* **[📽️ Projects](./projects.md)**
+* **[🏅 Honors & Awards](./honors.md)**
+* **[🗣️ Recommendations & Testimonials](./testimonials.md)**
+
+---
+
+### **About Me**
 
 ✅ **I help thousands of practitioners sharpen their defensive skills** by translating complex Red Team attack lifecycles into hands-on Blue Team labs.  
 ✅ With over **3,500 practitioners** engaging with my content and averaging **20,000 impressions per month**, we are constantly growing and advancing our education.
@@ -27,7 +29,7 @@ My existing experience includes pursuing a **B.S. in Cybersecurity (3.93 GPA)**,
 
 ---
 
-### // Technical Profile:
+### **// Technical Profile:**
 
 ```javascript
 const Dennis = {
