@@ -31,6 +31,7 @@
 </div>
 
 <br>
+<br>
 
 ### **About Me**
 
@@ -39,7 +40,7 @@
 
 My existing experience includes pursuing a **B.S. in Cybersecurity (3.93 GPA)**, serving as an **Information Security Intern for Ascend Learning**, and an **IT Intern for St. Charles County Government**. This background has afforded me a unique skillset for Blue Team roles in Enterprise Security Operations, Public Sector IT, and Cybersecurity Education.
 
----
+<br>
 
 ### **✨ My Projects**
 
@@ -48,11 +49,13 @@ My projects at DonkeySec include working with platforms like **HackTheBox, TryHa
 * 🔹 **Hands-On Development:** These platforms have given me insight and experiences to develop **100% hands-on blue team lab exercises** regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
 * 🔹 **Practical Tutorials:** I analyzed complex scenarios from these learning platforms to create practical lesson plans, translating advanced CTF challenges into accessible, step-by-step tutorials.
 
----
+<br>
 
 ### **🎯 Professional Goal**
 
 With a wide plethora of experience and certifications, I have become very accustomed to the tactical demands of the technical world. So my goal now is to leverage my background in cybersecurity to **secure enterprise environments against sophisticated threats.**
+
+<br>
 
 ### **🏆 Certifications Held**
 
