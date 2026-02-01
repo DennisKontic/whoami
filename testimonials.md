@@ -21,7 +21,7 @@
 > "During my tenure, Dennis has been the **ideal model as a soccer official**. He has adhered to all USSF Code of Ethics... His communication, punctuality, and character are second to none. His work ethic speaks volumes about his leadership among his peers. **I always envision Dennis being capable for any of life’s challenges.**"
 
 ### **Tim Lammering**
-**Midwest NISOA Member**
+**Midwest NISOA / ISOA Member**
 > "I have worked with Dennis on several occasions... and observed the following: physically fit, looks professional in uniform, conducts himself in a professional manner... **Dennis is a student of the game, constantly learning and asking questions.** I truly believe... he could develop into a very good referee, where he will no doubt represent our chapter very well."
 
 ---
@@ -30,7 +30,14 @@
 
 **[ 📄 Click here to view the Student Testimonials Document ](https://docs.google.com/document/d/1lgORw-UmUpQWSVseDA82EFkBT5QE9oEFvUgBwmWpDMA/edit?tab=t.0)**
 
-> *Access the document above to read feedback from the 3,500+ students and practitioners in the DonkeySec community.*
+### **@TurboSpool1**
+> "Thank you for these breakdowns, been locked in on THM and got super stuck on a good amount of stuff in this simulation, will be adding these tools you displayed to my knowledge base."
+
+### **@securityresearchuk**
+> "I saw that post!! Your content is amazing and it does make a difference. Keep up the good work :)"
+
+### **Younggunna_chicago**
+> "Oh now this is nice! Yeah I just subscribed."
 
 ---
 
