@@ -3,10 +3,6 @@ layout: default
 title: 🏅 Honors & Awards
 ---
 
-### Recognizing academic excellence, leadership, and community impact.
-
----
-
 ### 🎓 Academic Honors
 
 | Award | Issuing Organization | Date |
@@ -24,7 +20,7 @@ title: 🏅 Honors & Awards
 * **Alpha Lambda Delta:** Admitted as a freshman for achieving a GPA of 3.5 or higher during the first year of study.
 * **Dean’s List:** Consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above.
 
----
+<br>
 
 ### 🏆 Leadership & Professional Recognition
 
@@ -49,8 +45,6 @@ title: 🏅 Honors & Awards
 
 * **State Honor:** Recognized by the State Legislature for embodying the virtues held by early leaders of Missouri.
 * **Virtue of Temperance:** Specifically honored for demonstrating significant self-discipline, composure, and moderation of passion in high-pressure situations.
-
----
 
 <br>
 <div align="center">
