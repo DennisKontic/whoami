@@ -34,7 +34,7 @@ title: 🗣️ Recommendations & Testimonials
   </div>
 </div>
 
-<br>
+<hr>
 
 ### Steven Calicutt
 **CISO (Chief Information Security Officer)**
@@ -55,7 +55,7 @@ title: 🗣️ Recommendations & Testimonials
 
 > “I have worked with Dennis on several occasions… and observed the following: physically fit, looks professional in uniform, conducts himself in a professional manner… Dennis is a student of the game, constantly learning and asking questions. I truly believe… he could develop into a very good referee, where he will no doubt represent our chapter very well.”
 
-<br>
+<hr>
 
 ### 🎓 DonkeySec Student Feedback
 
@@ -67,7 +67,7 @@ title: 🗣️ Recommendations & Testimonials
   </div>
 </div>
 
-<br>
+<hr>
 
 ### @TurboSpool1
 **DonkeySec Student**
@@ -88,7 +88,7 @@ title: 🗣️ Recommendations & Testimonials
 
 > “Oh now this is nice! Yeah I just subscribed.”
 
-<br>
+<hr>
 
 <div align="center">
   <a href="index.html" class="home-button">⬅️ Return to Home</a>
