@@ -1,17 +1,22 @@
 <div align="center">
 
-[![](https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DonkeySec/videos)
-[![](https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denniskontic@yahoo.com)
+<a href="https://www.youtube.com/@DonkeySec/videos">
+  <img src="https://img.shields.io/badge/YouTube-DonkeySec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30">
+</a>
+&nbsp;
+<a href="mailto:denniskontic@yahoo.com">
+  <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+</a>
+
+<br><br>
+
+| [💼 Experience](./experience.md) | [🏆 Certifications](./certifications.md) | [🎓 Education](./education.md) |
+| :---: | :---: | :---: |
+| **[📽️ Projects](./projects.md)** | **[🏅 Honors](./honors.md)** | **[🗣️ Testimonials](./testimonials.md)** |
 
 </div>
 
 <br>
-
-| ### [💼 Experience](./experience.md) | ### [🏆 Certifications](./certifications.md) | ### [🎓 Education](./education.md) |
-| :---: | :---: | :---: |
-| ### [📽️ Projects](./projects.md) | ### [🏅 Honors](./honors.md) | ### [🗣️ Testimonials](./testimonials.md) |
-
----
 
 ### **About Me**
 
