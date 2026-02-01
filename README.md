@@ -8,8 +8,6 @@
     <a href="mailto:denniskontic@yahoo.com">✉ Contact Me</a>
   </div>
 
-  <div style="width: 2px; height: 45px; background-color: #ff0055; margin: 0 10px; box-shadow: 0 0 10px rgba(255, 0, 85, 0.5); display: inline-block;"></div>
-
   <div class="contact-card" style="background-color: #000000; border: 2px solid #8A2BE2;">
     <a href="https://docs.google.com/document/d/1n_OMmL8llgwFYdUIwp4xsm-beH-if5q9O1ASf1aan3I/edit?tab=t.0" style="color: white;">📄 View My Resume</a>
   </div>
@@ -33,7 +31,6 @@
 </div>
 
 <br>
-<hr>
 
 ### **About Me**
 
@@ -67,7 +64,6 @@ With a wide plethora of experience and certifications, I have become very accust
 | **HackTheBox** – CDSA | **Google** – Cybersecurity Certificate |
 
 <br>
-<hr>
 <div align="center">
   <p><i>Last Edited: February 1, 2026</i></p>
 </div>
