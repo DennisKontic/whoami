@@ -22,6 +22,14 @@ title: 🛡️ My TryHackMe Journey
     background-color: #0000ff; /* Solid Blue on hover */
     transform: scale(1.05);    /* Slight pop effect */
   }
+
+  /* This forces the resume lines to be black */
+  hr {
+    border: none;
+    height: 2px;
+    background-color: #000000;
+    margin: 20px 0;
+  }
 </style>
 
 ### 🏆 Ranked in the Top 1% Globally <span style="color: #FFD700;">[0xD][LEGEND]</span>
