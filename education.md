@@ -19,8 +19,6 @@ I have consistently maintained high academic standards, earning recognition in m
 * **Alpha Lambda Delta Academic Honor Society**
 * **Dean’s List:** 2023, 2024, 2025
 
----
-
 <br>
 <div align="center">
   <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
