@@ -19,7 +19,7 @@
 
 #### 📝 Details
 * **Alpha Chi:** Inducted into the National College Honor Society, restricted to juniors and seniors ranking in the **upper 10%** of their class.
-* **Honors Convocation:** Recognized for academic excellence and maintaining a cumulative grade point average above 3.8.
+* **Honors Convocation:** Alpha Sigma Lambda National Honor Society recognizes those senior students in the adult evening programs who have achieved academic excellence while handling other life responsibilities, including family, work, and community service.
 * **Alpha Lambda Delta:** Admitted as a freshman for achieving a GPA of 3.5 or higher during the first year of study.
 * **Dean's List:** consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above.
 
