@@ -9,12 +9,12 @@
 
 ### 📂 **Profile Navigation**
 
-* **[💼 Professional Experience](./experience.md)**
-* **[🏆 Certifications](./certifications.md)**
-* **[🎓 Education](./education.md)**
-* **[📽️ Projects](./projects.md)**
-* **[🏅 Honors & Awards](./honors.md)**
-* **[🗣️ Recommendations & Testimonials](./testimonials.md)**
+* ### [💼 Professional Experience](./experience.md)
+* ### [🏆 Certifications](./certifications.md)
+* ### [🎓 Education](./education.md)
+* ### [📽️ Projects](./projects.md)
+* ### [🏅 Honors & Awards](./honors.md)
+* ### [🗣️ Recommendations & Testimonials](./recommendations&testimonials.md)
 
 ---
 
