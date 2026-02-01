@@ -3,12 +3,15 @@ layout: default
 title: 🗣️ Recommendations & Testimonials
 ---
 
-### Professional endorsements from industry leaders and feedback from the DonkeySec community.
-
----
-
 ### 🤝 Professional Recommendations
-*[📄 Click here to view more Professional Recommendations](#)*
+
+<div align="center">
+  <div class="contact-container">
+    <div class="contact-card">
+      <a href="https://drive.google.com/open?id=1-XfOoKNn98r91StH5a7KO188DABjutcPZQP-0LtA9Ok">📄 View Professional Recommendations</a>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -31,10 +34,17 @@ title: 🗣️ Recommendations & Testimonials
 
 > “I have worked with Dennis on several occasions… and observed the following: physically fit, looks professional in uniform, conducts himself in a professional manner… Dennis is a student of the game, constantly learning and asking questions. I truly believe… he could develop into a very good referee, where he will no doubt represent our chapter very well.”
 
----
+<br>
 
 ### 🎓 DonkeySec Student Feedback
-*[📄 Click here to view more Student Feedback](#)*
+
+<div align="center">
+  <div class="contact-container">
+    <div class="contact-card">
+      <a href="#">📄 View Student Feedback</a>
+    </div>
+  </div>
+</div>
 
 <br>
 
@@ -57,10 +67,8 @@ title: 🗣️ Recommendations & Testimonials
 
 > “Oh now this is nice! Yeah I just subscribed.”
 
----
-
 <br>
 <div align="center">
-  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
+  <h3><a href="index.html">⬅️ Return to Home</a></h3>
 </div>
 <br>
