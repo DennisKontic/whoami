@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 🛡️ My TryHackMe Journey
 ---
 
 # 🛡️ My TryHackMe Journey
