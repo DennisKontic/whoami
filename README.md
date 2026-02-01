@@ -1,6 +1,6 @@
 <div align="center">
 
-<div class="contact-container">
+<div class="contact-container" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div class="contact-card">
     <a href="https://www.youtube.com/@DonkeySec/videos">▶ Visit My Projects on YouTube</a>
   </div>
@@ -8,7 +8,7 @@
     <a href="mailto:denniskontic@yahoo.com">✉ Contact Me</a>
   </div>
 
-  <div style="width: 2px; height: 45px; background-color: #ff0055; align-self: center; margin: 0 15px; box-shadow: 0 0 10px rgba(255, 0, 85, 0.5);"></div>
+  <div style="width: 2px; height: 45px; background-color: #ff0055; margin: 0 10px; box-shadow: 0 0 10px rgba(255, 0, 85, 0.5); display: inline-block;"></div>
 
   <div class="contact-card" style="background-color: #000000; border: 2px solid #8A2BE2;">
     <a href="https://docs.google.com/document/d/1n_OMmL8llgwFYdUIwp4xsm-beH-if5q9O1ASf1aan3I/edit?tab=t.0" style="color: white;">📄 View My Resume</a>
