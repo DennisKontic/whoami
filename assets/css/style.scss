@@ -3,63 +3,67 @@
 
 @import "{{ site.theme }}";
 
-// 1. HIDE THE "View on GitHub" BUTTON
-.page-header a.btn {
+/* 1. HIDE THE FOOTER & GITHUB BUTTON */
+.site-footer,
+.page-header .btn {
   display: none !important;
 }
 
-// 2. HIDE THE FOOTER (Maintained by...)
-.site-footer {
-  display: none !important;
-}
-
-// 3. MAKE BODY BLACK (Professional Dark Mode)
+/* 2. CYBER DARK BODY */
 body {
-  background-color: #0d1117; /* GitHub Dark Background */
-  color: #c9d1d9; /* Soft White Text */
+  background-color: #050505 !important; /* almost pure black */
+  color: #e0e0e0 !important; /* bright grey text */
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
-.main-content {
-  background-color: #0d1117;
-  color: #c9d1d9;
-}
-
-// 4. MAKE HEADER PROFESSIONAL BLUE
+/* 3. VIBRANT BLUE HEADER */
 .page-header {
-  background-image: linear-gradient(120deg, #0a192f, #0044cc); /* Cyber Blue Gradient */
-  background-color: #0a192f;
-  border-bottom: 2px solid #0044cc;
+  background-image: linear-gradient(135deg, #020024 0%, #090979 35%, #00d4ff 100%) !important;
+  border-bottom: 4px solid #00d4ff;
 }
 
-// 5. STRETCH AND POP THE SUBTITLE
+/* 4. MAKE TITLE & SUBTITLE POP */
+.project-name {
+  color: #ffffff !important;
+  text-shadow: 2px 2px 4px #000000;
+}
+
 .project-tagline {
-  font-size: 1.25rem;
+  color: #ffffff !important;
+  font-size: 1.4rem !important; /* Bigger */
   font-weight: bold;
-  opacity: 1;
-  color: #ffffff;
-  margin-bottom: 2rem;
+  text-shadow: 1px 1px 2px #000000;
+  opacity: 1 !important;
+  margin-bottom: 20px;
 }
 
-// 6. MAKE HEADERS WHITE AND POP
-h1, h2, h3 {
-  color: #ffffff;
-  margin-top: 2rem;
-}
-
-// 7. FIX LINKS (Make them bright blue)
+/* 5. LINK COLORS (Cyber Blue) */
 a {
-  color: #58a6ff;
+  color: #3399ff !important;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: #66b3ff !important;
 }
 
-// 8. TABLE STYLING (For your menu)
+/* 6. CONTENT BOX */
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* 7. TABLE STYLING */
 table {
-  display: table;
   width: 100%;
   border-collapse: collapse;
-  margin-bottom: 2rem;
+  margin: 20px 0;
+  background-color: #111;
+  border: 1px solid #333;
 }
-
-td, th {
-  border: 1px solid #30363d;
-  padding: 10px;
+th, td {
+  border: 1px solid #333;
+  padding: 12px;
+  text-align: center;
 }
