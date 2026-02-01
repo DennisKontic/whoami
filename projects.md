@@ -1,26 +1,18 @@
-<div align="center">
-
-# 📽️ Project Portfolio
+---
+layout: default
+title: 📽️ Project Portfolio
+---
 
 ### All hands-on Blue Teaming and Red Teaming projects are documented here.
 
-<br>
-
-<a href="https://www.youtube.com/@DonkeySec/videos">
-  <img src="https://img.shields.io/badge/YouTube-Watch_My_Projects-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DonkeySec YouTube">
-</a>
-
-<br>
-<br>
-
-**[ Click here to visit DonkeySec on YouTube ](https://www.youtube.com/@DonkeySec/videos)**
-
-</div>
-
 ---
 
-### 📺 What to Expect
+### 🛡️ DonkeySec YouTube
+**[📺 Click here to visit DonkeySec on YouTube](https://www.youtube.com/@DonkeySec/videos)**
 
+<br>
+
+### 📺 What to Expect
 My YouTube channel serves as my living lab portfolio where I bridge the gap between theory and practice.
 
 * 📈 **Content Creation:** Created educational blue team content for **3,500+ practitioners**, averaging **20,000 impressions per month** across YouTube, TikTok, Instagram, and Facebook.
@@ -30,8 +22,8 @@ My YouTube channel serves as my living lab portfolio where I bridge the gap betw
 
 ---
 
+<br>
 <div align="center">
-
-**[ ⬅️ Return to Main Profile ](https://github.com/DennisKontic/Certifications-Accomplishments)**
-
+  <h3><a href="index.html">⬅️ Return to Main Profile</a></h3>
 </div>
+<br>
