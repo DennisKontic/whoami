@@ -8,18 +8,16 @@
   <img src="https://img.shields.io/badge/Professional%20Email-denniskontic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" height="30">
 </a>
 
-<br><br>
-
-<table align="center" style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td align="center" width="33%"><h3><a href="experience.html">💼 Experience</a></h3></td>
-    <td align="center" width="33%"><h3><a href="certifications.html">🏆 Certifications</a></h3></td>
-    <td align="center" width="33%"><h3><a href="education.html">🎓 Education</a></h3></td>
+    <td><a href="experience.html">💼 Experience</a></td>
+    <td><a href="certifications.html">🏆 Certifications</a></td>
+    <td><a href="education.html">🎓 Education</a></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><h3><a href="projects.html">📽️ Projects</a></h3></td>
-    <td align="center" width="33%"><h3><a href="honors.html">🏅 Honors</a></h3></td>
-    <td align="center" width="33%"><h3><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></h3></td>
+    <td><a href="projects.html">📽️ Projects</a></td>
+    <td><a href="honors.html">🏅 Honors</a></td>
+    <td><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></td>
   </tr>
 </table>
 
