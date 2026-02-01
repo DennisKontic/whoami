@@ -3,13 +3,8 @@ layout: default
 title: 🎓 Education
 ---
 
-### Building a strong academic foundation in Cybersecurity and Business.
-
----
-
 ### 🦁 Lindenwood University
-**B.S. Cybersecurity | Minor in Business Administration**
-*St. Charles, MO | 2023 – 2026 (Expected)*
+**B.S. Cybersecurity | Minor in Business Administration | St. Charles, MO | 2023 – 2026 (Expected)**
 
 * **GPA:** 3.93 / 4.00
 * **Status:** First Generation Student
