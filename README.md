@@ -24,7 +24,7 @@
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
   <div class="menu-card"><a href="tryhackme.html">🤖 TryHackMe</a></div>
-  <div class="menu-card"><a href="hackthebox.html">🧪 HackTheBox</a></div>
+  <div class="menu-card"><a href="hackthebox.html">🧪 Hack The Box</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
 </div>
@@ -34,49 +34,61 @@
 <br>
 <br>
 
-### **About Me**
+## 🙋‍♂️ About Me
 
-✅ **I help thousands of practitioners sharpen their defensive skills** by translating complex Red Team attack lifecycles into hands-on Blue Team labs.  
-✅ With over **3,500 practitioners** engaging with my content and averaging **20,000 impressions per month**, we are constantly growing and advancing our education.
+Hi, I’m **Dennis Kontic**, a cybersecurity graduate and Blue Team practitioner with professional experience across security operations, public sector IT, IT support, and cybersecurity education.
 
-My experience includes working as a **Level 1 IT Technician at CarShield**, serving as an **Information Security Intern for Ascend Learning**, and completing an **IT Internship with St. Charles County Government**. I am also a **Bachelor of Science in Cybersecurity graduate with a Minor in Business Administration from Lindenwood University**, graduating with a **3.94 GPA**.
+I graduated from **Lindenwood University** with a **Bachelor of Science in Cybersecurity** and a **Minor in Business Administration**, earning a **3.94 GPA**. My background includes experience as a **Level 1 IT Technician at CarShield**, **Information Security Intern at Ascend Learning**, **IT Intern with St. Charles County Government**, and **Cybersecurity Content Creator through DonkeySec**.
 
-<br>
-
-### **✨ My Projects**
-
-My projects at DonkeySec include working with platforms like **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online** and more.
-
-* 🔹 **Hands-On Development:** These platforms have given me insight and experiences to develop **100% hands-on blue team lab exercises** regarding digital forensics, incident response, security operations centers (SOC), threat hunting, malware analysis, cyber threat intelligence, vulnerability management, and detection engineering.
-* 🔹 **Practical Tutorials:** I analyzed complex scenarios from these learning platforms to create practical lesson plans, translating advanced CTF challenges into accessible, step-by-step tutorials.
+Through **DonkeySec**, I help thousands of practitioners sharpen their defensive cybersecurity skills by translating Red Team attack lifecycles into practical Blue Team labs, walkthroughs, and tutorials. My content has reached over **3,500 practitioners** and averages around **20,000 monthly impressions**.
 
 <br>
 
-### **🎯 Professional Goal**
+## ✅ Defensive Security Focus Areas
 
-With a wide range of experience and certifications, I have become very accustomed to the tactical demands of the technical world. My goal now is to leverage my background in cybersecurity to **secure enterprise environments against sophisticated threats.**
+My work focuses on defensive security topics such as:
+
+* **Security Operations Center analysis**
+* **Digital forensics and incident response**
+* **Threat hunting**
+* **Malware analysis**
+* **Cyber threat intelligence**
+* **Vulnerability management**
+* **Detection engineering**
+
+I have created and studied labs across platforms including **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online**, and others. These platforms have helped me develop practical experience analyzing attack paths, documenting findings, and turning complex technical scenarios into accessible training material.
+
+My goal is to leverage my background in cybersecurity, IT support, and security education to help organizations detect, respond to, and defend against modern cyber threats.
 
 <br>
 
-### **🏆 Certifications Held**
+## 🎓 Certifications
 
-| **CompTIA** – Security+ | **TryHackMe** – SAL1 |
-| :--- | :--- |
-| **CompTIA** – CySA+ | **Cloud Security Alliance** – CCSK |
-| **CompTIA** – CSAP | **Cloud Security Alliance** – CCZT |
-| **Security Blue Team** – BTL1 | **ISC2** – CC |
-| **Hack The Box** – CDSA | **CyberDefenders** – CCDL1 |
-| **Google** – Cybersecurity Certificate | **Google & CompTIA** – Dual Credential |
+* **CompTIA Security+**
+* **CompTIA CySA+**
+* **CompTIA CSAP**
+* **Security Blue Team BTL1**
+* **Hack The Box CDSA**
+* **CyberDefenders CCDL1**
+* **TryHackMe SAL1**
+* **Cloud Security Alliance CCSK**
+* **Cloud Security Alliance CCZT**
+* **ISC2 Certified in Cybersecurity**
+* **Google Cybersecurity Certificate**
+* **Google & CompTIA Dual Credential**
 
 <br>
 
-### **🧪 Hack The Box Achievements**
+## 🔗 Links
 
-My Hack The Box achievements include the **HTB Certified Defensive Security Analyst certification**, a **Professional HTB rank**, and completed Academy paths and badges focused on SOC analysis, AI security, network traffic analysis, Active Directory security, and defensive operations.
+**Lab Portfolio:**  
+<a href="https://www.youtube.com/@DonkeySec/videos">https://www.youtube.com/@DonkeySec/videos</a>
 
-<div align="center">
-  <a href="hackthebox.html">View My Hack The Box Achievements</a>
-</div>
+**Website:**  
+<a href="https://denniskontic.github.io/whoami/index.html">https://denniskontic.github.io/whoami/index.html</a>
+
+**Contact Me:**  
+<a href="mailto:denniskontic@yahoo.com">denniskontic@yahoo.com</a>
 
 <br>
 
