@@ -28,17 +28,24 @@ title: 🏅 Honors & Awards
 
 | Award | Issuing Organization | Date |
 | :--- | :--- | :--- |
+| **Summa Cum Laude Graduate** | Lindenwood University | May 2026 |
+| **Highest Honors Graduate** | Lindenwood University | May 2026 |
+| **First Generation Graduate** | Lindenwood University | May 2026 |
 | **Alpha Chi Academic Honor Society** | Alpha Chi | Sep 2025 |
 | **Honors Convocation Award** | Lindenwood University | Apr 2025 |
-| **Alpha Lambda Delta Honor Society** | Alpha Lambda Delta | Mar 2024 |
-| **Dean’s List** | Lindenwood University | 2023, 2024, 2025 |
+| **Alpha Lambda Delta Academic Honor Society** | Alpha Lambda Delta | Mar 2024 |
+| **Dean’s List** | Lindenwood University | 2023, 2024, 2025, 2026 |
 
 <br>
 
 ### 📝 Details
-* **Alpha Chi:** Inducted into the National College Honor Society, restricted to juniors and seniors ranking in the upper 10% of their class.
-* **Honors Convocation:** Alpha Sigma Lambda National Honor Society recognizes senior students who have achieved academic excellence while handling other life responsibilities.
-* **Alpha Lambda Delta:** Admitted as a freshman for achieving a GPA of 3.5 or higher during the first year of study.
+
+* **Summa Cum Laude Graduate:** Graduated with high academic distinction based on cumulative undergraduate GPA.
+* **Highest Honors Graduate:** Recognized for completing degree requirements with the highest level of academic achievement.
+* **First Generation Graduate:** Recognized as a first-generation college graduate.
+* **Alpha Chi Academic Honor Society:** Inducted into the national college honor society for juniors and seniors ranking in the upper 10% of their class.
+* **Honors Convocation Award:** Recognized by Lindenwood University for academic excellence and achievement.
+* **Alpha Lambda Delta Academic Honor Society:** Admitted as a first-year student for achieving a GPA of 3.5 or higher during the first year of study.
 * **Dean’s List:** Consistently awarded to full-time undergraduate students achieving a GPA of 3.5 or above per semester.
 
 <br>
