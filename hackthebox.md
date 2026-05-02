@@ -122,7 +122,7 @@ title: 🧪 HackTheBox Achievements
 
 <div class="htb-card">
   <p>
-    I use HackTheBox to sharpen hands-on cybersecurity skills across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, AI red teaming, and AI defense.
+    I use HackTheBox to sharpen hands on cybersecurity skills across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, AI Red Teaming, and AI Defense.
   </p>
 
   <table class="htb-table">
