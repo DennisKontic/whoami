@@ -31,9 +31,9 @@ title: 🏅 Honors & Awards
 | **Summa Cum Laude Graduate** | Lindenwood University | May 2026 |
 | **Highest Honors Graduate** | Lindenwood University | May 2026 |
 | **First Generation Graduate** | Lindenwood University | May 2026 |
-| **2025-2026 Lindenwood Honors Convocation** | Alpha Chi | Apr 2026 |
+| **Honors Convocation Award** | Alpha Chi | Apr 2026 |
 | **Alpha Chi Academic Honor Society** | Alpha Chi | Sep 2025 |
-| **Honors Convocation Award** | Lindenwood University | Apr 2025 |
+| **Honors Convocation Award** | Alpha Lamda Delta | Apr 2025 |
 | **Alpha Lambda Delta Academic Honor Society** | Alpha Lambda Delta | Mar 2024 |
 | **Dean’s List** | Lindenwood University | 2023, 2024, 2025, 2026 |
 
