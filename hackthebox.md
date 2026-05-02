@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧪 Hack The Box Achievements
+title: 🧪 HackTheBox Achievements
 ---
 
 <style>
@@ -118,11 +118,11 @@ title: 🧪 Hack The Box Achievements
   }
 </style>
 
-### 🧪 Hack The Box Profile
+### 🧪 HackTheBox Profile
 
 <div class="htb-card">
   <p>
-    I use Hack The Box to sharpen hands-on cybersecurity skills across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, AI red teaming, and AI defense.
+    I use HackTheBox to sharpen hands-on cybersecurity skills across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, AI red teaming, and AI defense.
   </p>
 
   <table class="htb-table">
@@ -155,7 +155,7 @@ title: 🧪 Hack The Box Achievements
 
 <br>
 
-### 🏆 Featured Hack The Box Certification
+### 🏆 Featured HackTheBox Certification
 
 <div class="htb-card">
   <h3>HTB Certified Defensive Security Analyst</h3>
@@ -167,7 +167,7 @@ title: 🧪 Hack The Box Achievements
     </tr>
     <tr>
       <td><strong>Certification</strong></td>
-      <td><strong>Hack The Box Certified Defensive Security Analyst</strong></td>
+      <td><strong>HackTheBox Certified Defensive Security Analyst</strong></td>
     </tr>
     <tr>
       <td><strong>Abbreviation</strong></td>
@@ -198,7 +198,7 @@ title: 🧪 Hack The Box Achievements
 
 <br>
 
-### 🛡️ Hack The Box Academy Paths Completed
+### 🛡️ HackTheBox Academy Paths Completed
 
 <div class="htb-badge-grid">
 
@@ -233,7 +233,7 @@ title: 🧪 Hack The Box Achievements
 
 <br>
 
-### 🎖️ Hack The Box Academy Badges
+### 🎖️ HackTheBox Academy Badges
 
 <div class="htb-badge-grid">
 
@@ -301,7 +301,7 @@ title: 🧪 Hack The Box Achievements
 
 <br>
 
-### 🔎 Skills Demonstrated Through Hack The Box
+### 🔎 Skills Demonstrated Through HackTheBox
 
 <div class="htb-card">
   <ul class="skills-list">
