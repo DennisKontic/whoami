@@ -24,7 +24,7 @@
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
   <div class="menu-card"><a href="tryhackme.html">🤖 TryHackMe</a></div>
-  <div class="menu-card"><a href="hackthebox.html">🧪 Hack The Box</a></div>
+  <div class="menu-card"><a href="hackthebox.html">🧪 HackTheBox</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
 </div>
