@@ -24,6 +24,7 @@
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
   <div class="menu-card"><a href="tryhackme.html">🤖 TryHackMe</a></div>
+  <div class="menu-card"><a href="hackthebox.html">🧪 Hack The Box</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
 </div>
@@ -38,7 +39,7 @@
 ✅ **I help thousands of practitioners sharpen their defensive skills** by translating complex Red Team attack lifecycles into hands-on Blue Team labs.  
 ✅ With over **3,500 practitioners** engaging with my content and averaging **20,000 impressions per month**, we are constantly growing and advancing our education.
 
-My existing experience includes pursuing a **B.S. in Cybersecurity (3.93 GPA)**, serving as an **Information Security Intern for Ascend Learning**, and an **IT Intern for St. Charles County Government**. This background has afforded me a unique skillset for Blue Team roles in Enterprise Security Operations, Public Sector IT, and Cybersecurity Education.
+My experience includes working as a **Level 1 IT Technician at CarShield**, serving as an **Information Security Intern for Ascend Learning**, and completing an **IT Internship with St. Charles County Government**. I am also a **Bachelor of Science in Cybersecurity graduate with a Minor in Business Administration from Lindenwood University**, graduating with a **3.94 GPA**.
 
 <br>
 
@@ -53,7 +54,7 @@ My projects at DonkeySec include working with platforms like **HackTheBox, TryHa
 
 ### **🎯 Professional Goal**
 
-With a wide plethora of experience and certifications, I have become very accustomed to the tactical demands of the technical world. So my goal now is to leverage my background in cybersecurity to **secure enterprise environments against sophisticated threats.**
+With a wide range of experience and certifications, I have become very accustomed to the tactical demands of the technical world. My goal now is to leverage my background in cybersecurity to **secure enterprise environments against sophisticated threats.**
 
 <br>
 
@@ -64,9 +65,21 @@ With a wide plethora of experience and certifications, I have become very accust
 | **CompTIA** – CySA+ | **Cloud Security Alliance** – CCSK |
 | **CompTIA** – CSAP | **Cloud Security Alliance** – CCZT |
 | **Security Blue Team** – BTL1 | **ISC2** – CC |
-| **HackTheBox** – CDSA | **Google** – Cybersecurity Certificate |
+| **Hack The Box** – CDSA | **CyberDefenders** – CCDL1 |
+| **Google** – Cybersecurity Certificate | **Google & CompTIA** – Dual Credential |
 
 <br>
+
+### **🧪 Hack The Box Achievements**
+
+My Hack The Box achievements include the **HTB Certified Defensive Security Analyst certification**, a **Professional HTB rank**, and completed Academy paths and badges focused on SOC analysis, AI security, network traffic analysis, Active Directory security, and defensive operations.
+
 <div align="center">
-  <p><i>Last Edited: February 1, 2026</i></p>
+  <a href="hackthebox.html">View My Hack The Box Achievements</a>
+</div>
+
+<br>
+
+<div align="center">
+  <p><i>Last Edited: May 2, 2026</i></p>
 </div>
