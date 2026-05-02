@@ -35,7 +35,7 @@ title: 💼 Professional Experience
 <br>
 
 ### 🚗 CarShield
-**Level 1 IT Technician** | *St. Peters, MO (On-site) | February 2026 - Present*
+**Level 1 IT Technician** | *St. Peters, MO | February 2026 - Present*
 
 * **Technical Support:** Resolved **20+ daily IT support tickets** involving account access, endpoint troubleshooting, software issues, VPN connectivity, and user system errors while documenting actions and maintaining service level expectations.
 * **Identity and Access Management:** Supported identity and access management requests by assisting with password resets, MFA troubleshooting, account unlocks, permission changes, and access troubleshooting across internal systems.
