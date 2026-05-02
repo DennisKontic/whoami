@@ -25,11 +25,11 @@ title: 🎓 Education
 </style>
 
 ### 🦁 Lindenwood University
-**Bachelor of Science in Cybersecurity | Minor in Business Administration | St. Charles, MO | 2023 – 2026**
+**Bachelor of Science in Cybersecurity | Minor in Business Administration | St. Charles, MO | Aug. 2023 – May 2026**
 
 * **GPA:** 3.94 / 4.00
-* **Status:** First Generation Graduate
-* **Graduation:** May 2026
+* **Status:** Graduate
+* **Recognition:** First Generation Graduate
 
 <br>
 
