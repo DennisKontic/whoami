@@ -34,6 +34,15 @@ title: 💼 Professional Experience
 
 <br>
 
+### 🚗 CarShield
+**Level 1 IT Technician** | *St. Peters, MO (On-site) | February 2026 - Present*
+
+* **Technical Support:** Resolved **20+ daily IT support tickets** involving account access, endpoint troubleshooting, software issues, VPN connectivity, and user system errors while documenting actions and maintaining service level expectations.
+* **Identity and Access Management:** Supported identity and access management requests by assisting with password resets, MFA troubleshooting, account unlocks, permission changes, and access troubleshooting across internal systems.
+* **Endpoint Support:** Configured and supported employee workstations, software, peripherals, and network connectivity while following company security standards and reducing user downtime.
+
+<br>
+
 ### 🏢 Ascend Learning
 **Information Security Intern** | *Leawood, KS (Remote) | May 2025 – August 2025*
 
@@ -46,7 +55,7 @@ title: 💼 Professional Experience
 ### 🏛️ St. Charles County Government
 **Information Technology Intern** | *St. Charles, MO | August 2024 – October 2024*
 
-* **Technical Support:** Provided first-level technical support for over **10,000 users**, achieving a resolution rate of **80% within the first contact** and enhancing overall system uptime by **15%**.
+* **Technical Support:** Provided first-level technical support for over **10,000 users**, achieving a resolution rate of **80% within the first contact** and helping improve overall system uptime by **10%**.
 * **Vulnerability Management:** Assessed workstation security configurations, identified vulnerabilities, and implemented policy updates that improved compliance by **20%**.
 * **Asset Management:** Supported IT asset inventory worth over **$1 million** in hardware and software, using better tracking methods to keep assets organized and improve daily operations.
 
