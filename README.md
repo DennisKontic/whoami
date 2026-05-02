@@ -24,7 +24,7 @@
   <div class="menu-card"><a href="education.html">🎓 Education</a></div>
   <div class="menu-card"><a href="projects.html">📽️ Projects</a></div>
   <div class="menu-card"><a href="tryhackme.html">🤖 TryHackMe</a></div>
-  <div class="menu-card"><a href="hackthebox.html">🧪 Hack The Box</a></div>
+  <div class="menu-card"><a href="hackthebox.html">🧪 HackTheBox</a></div>
   <div class="menu-card"><a href="honors.html">🏅 Honors</a></div>
   <div class="menu-card"><a href="recommendations%26testimonials.html">🗣️ Testimonials</a></div>
 </div>
@@ -48,13 +48,13 @@ Through **DonkeySec**, I help thousands of practitioners sharpen their defensive
 
 My work focuses on defensive security topics such as:
 
-* **Security Operations Center analysis**
-* **Digital forensics and incident response**
-* **Threat hunting**
-* **Malware analysis**
-* **Cyber threat intelligence**
-* **Vulnerability management**
-* **Detection engineering**
+* **Security Operations Center Analysis**
+* **Digital Forensics and Incident Response**
+* **Threat Hunting**
+* **Malware Analysis**
+* **Cyber Threat Intelligence**
+* **Vulnerability Management**
+* **Detection Engineering**
 
 I have created and studied labs across platforms including **HackTheBox, TryHackMe, CyberDefenders, CompTIA, Blue Team Labs Online**, and others. These platforms have helped me develop practical experience analyzing attack paths, documenting findings, and turning complex technical scenarios into accessible training material.
 
@@ -68,7 +68,7 @@ My goal is to leverage my background in cybersecurity, IT support, and security 
 * **CompTIA CySA+**
 * **CompTIA CSAP**
 * **Security Blue Team BTL1**
-* **Hack The Box CDSA**
+* **HackTheBox CDSA**
 * **CyberDefenders CCDL1**
 * **TryHackMe SAL1**
 * **Cloud Security Alliance CCSK**
