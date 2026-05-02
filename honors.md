@@ -31,6 +31,7 @@ title: 🏅 Honors & Awards
 | **Summa Cum Laude Graduate** | Lindenwood University | May 2026 |
 | **Highest Honors Graduate** | Lindenwood University | May 2026 |
 | **First Generation Graduate** | Lindenwood University | May 2026 |
+| **2025-2026 Lindenwood Honors Convocation** | Alpha Chi | Apr 2026 |
 | **Alpha Chi Academic Honor Society** | Alpha Chi | Sep 2025 |
 | **Honors Convocation Award** | Lindenwood University | Apr 2025 |
 | **Alpha Lambda Delta Academic Honor Society** | Alpha Lambda Delta | Mar 2024 |
@@ -43,6 +44,7 @@ title: 🏅 Honors & Awards
 * **Summa Cum Laude Graduate:** Graduated with high academic distinction based on cumulative undergraduate GPA.
 * **Highest Honors Graduate:** Recognized for completing degree requirements with the highest level of academic achievement.
 * **First Generation Graduate:** Recognized as a first-generation college graduate.
+* **2025-2026 Lindenwood Honors Convocation:** Recognized through Lindenwood University’s Honors Convocation and associated with Alpha Chi, a national college honor society limited to the top 10 percent of an institution’s juniors, seniors, and graduate students.
 * **Alpha Chi Academic Honor Society:** Inducted into the national college honor society for juniors and seniors ranking in the upper 10% of their class.
 * **Honors Convocation Award:** Recognized by Lindenwood University for academic excellence and achievement.
 * **Alpha Lambda Delta Academic Honor Society:** Admitted as a first-year student for achieving a GPA of 3.5 or higher during the first year of study.
