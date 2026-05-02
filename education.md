@@ -25,20 +25,23 @@ title: 🎓 Education
 </style>
 
 ### 🦁 Lindenwood University
-**B.S. Cybersecurity | Minor in Business Administration | St. Charles, MO | 2023 – 2026 (Expected)**
+**Bachelor of Science in Cybersecurity | Minor in Business Administration | St. Charles, MO | 2023 – 2026**
 
-* **GPA:** 3.93 / 4.00
-* **Status:** First Generation Student
+* **GPA:** 3.94 / 4.00
+* **Status:** First Generation Graduate
+* **Graduation:** May 2026
 
 <br>
 
-### 🏅 Honors & Societies
-I have consistently maintained high academic standards, earning recognition in multiple honor societies and the Dean’s List for every year of attendance.
+### 🏅 Honors & Academic Recognition
+I consistently maintained high academic standards throughout my undergraduate studies, earning recognition through academic honors, honor societies, and Dean’s List distinction for every year of attendance.
 
-* **Honors Academy Student**
-* **Alpha Chi Academic Honor Society**
-* **Alpha Lambda Delta Academic Honor Society**
-* **Dean’s List:** 2023, 2024, 2025
+* **Summa Cum Laude Graduate**
+* **Highest Honors Graduate**
+* **Alpha Chi Academic Honor Society Graduate**
+* **Alpha Lambda Delta Academic Honor Society Graduate**
+* **First Generation Graduate**
+* **Dean’s List:** 2023, 2024, 2025, 2026
 
 <br>
 
