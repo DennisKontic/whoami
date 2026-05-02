@@ -29,8 +29,9 @@ These certifications focus on practical Security Operations Center (SOC) skills,
 
 | Certification | Issuing Org | What It Validates |
 | :--- | :--- | :--- |
-| **BTL1** (Blue Team Level 1) | Security Blue Team | **Practical Defense:** Validates hands-on skills in SIEM (Splunk), Phishing Analysis, Digital Forensics, and Incident Response through a 24-hour practical exam. |
+| **BTL1** (Blue Team Level 1) | Security Blue Team | **Practical Defense:** Validates hands-on skills in SIEM (Splunk), phishing analysis, digital forensics, and incident response through a 24-hour practical exam. |
 | **HTB CDSA** (Certified Defensive Security Analyst) | Hack The Box | **SOC Analysis:** Proves ability to perform log analysis, malware analysis, and threat hunting in a realistic enterprise environment. |
+| **CCDL1** (Certified CyberDefender Level 1) | CyberDefenders | **SOC Readiness:** Validates practical junior SOC analyst skills, including alert triage, SIEM operations, threat intelligence, phishing investigation, digital forensics, and incident response. |
 | **CySA+** (Cybersecurity Analyst) | CompTIA | **Threat Detection:** Focuses on behavioral analytics, vulnerability management, and configuring threat detection tools. |
 | **CSAP** (Security Analytics Professional) | CompTIA | **Stackable Credential:** A mastery badge awarded for holding both Security+ and CySA+, certifying deep expertise in security analytics. |
 | **SAL1** (Security Analyst Level 1) | TryHackMe | **Junior Analyst Skills:** Validates core competency in cyber defense frameworks, alert triage, and case reporting. |
