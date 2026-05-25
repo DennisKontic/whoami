@@ -1,8 +1,5 @@
 # Dennis Kontic
 
-<div class="subtitle">
-  Blue Team Operations | SOC Analysis | DFIR | Cybersecurity Content Creator
-</div>
 
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
