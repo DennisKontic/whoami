@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
 My blue team projects are now organized in a dedicated GitHub Pages portfolio.
@@ -40,7 +45,7 @@ My blue team projects are now organized in a dedicated GitHub Pages portfolio.
 <br>
 
 <div align="center">
-  <a href="index.html" class="home-button">⬅️ Return to Home</a>
+  <a href="index.html" class="home-button">Return to Home</a>
 </div>
 
 <br>
