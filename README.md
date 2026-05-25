@@ -5,7 +5,7 @@
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
   <a class="secondary-button" href="mailto:denniskontic@yahoo.com">Contact Me</a>
-  <a class="secondary-button" href="#">Resume</a>
+  <a class="secondary-button" href="Dennis_Kontic_Resume.pdf">Resume</a>
 </div>
 
 <div class="menu-grid">
@@ -54,8 +54,13 @@ I use this site as my main professional profile. My deeper technical work is hos
 ## Experience Snapshot
 
 <div class="experience-card">
-  <h3>Level 1 IT Technician</h3>
-  <p><strong>CarShield | Feb 2026 to Present</strong></p>
+  <div class="experience-heading">
+    <div>
+      <h3>Level 1 IT Technician</h3>
+      <p><strong>CarShield</strong></p>
+    </div>
+    <span>Feb 2026 to Present</span>
+  </div>
   <ul>
     <li>Resolve 15+ daily IT support tickets involving account access, endpoint troubleshooting, software issues, VPN connectivity, and user system errors.</li>
     <li>Support identity and access management requests, including password resets, MFA troubleshooting, account unlocks, permission changes, and user access issues.</li>
@@ -64,8 +69,13 @@ I use this site as my main professional profile. My deeper technical work is hos
 </div>
 
 <div class="experience-card">
-  <h3>Cybersecurity Content Creator</h3>
-  <p><strong>DonkeySec | Mar 2025 to Present</strong></p>
+  <div class="experience-heading">
+    <div>
+      <h3>Cybersecurity Content Creator</h3>
+      <p><strong>DonkeySec</strong></p>
+    </div>
+    <span>Mar 2025 to Present</span>
+  </div>
   <ul>
     <li>Create educational blue team content for 3,500+ practitioners, averaging around 20,000 monthly impressions.</li>
     <li>Develop labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management, and detection engineering.</li>
@@ -74,8 +84,13 @@ I use this site as my main professional profile. My deeper technical work is hos
 </div>
 
 <div class="experience-card">
-  <h3>Information Security Intern</h3>
-  <p><strong>Ascend Learning | May 2025 to Aug 2025</strong></p>
+  <div class="experience-heading">
+    <div>
+      <h3>Information Security Intern</h3>
+      <p><strong>Ascend Learning</strong></p>
+    </div>
+    <span>May 2025 to Aug 2025</span>
+  </div>
   <ul>
     <li>Investigated suspicious emails and malicious attachments using ANY.RUN and VirusTotal.</li>
     <li>Triaged 10+ security alerts daily within a SIEM and escalated verified incidents to senior analysts.</li>
@@ -84,8 +99,13 @@ I use this site as my main professional profile. My deeper technical work is hos
 </div>
 
 <div class="experience-card">
-  <h3>Information Systems Skilled Support</h3>
-  <p><strong>St. Charles County Government | Aug 2024 to Oct 2024</strong></p>
+  <div class="experience-heading">
+    <div>
+      <h3>Information Systems Skilled Support</h3>
+      <p><strong>St. Charles County Government</strong></p>
+    </div>
+    <span>Aug 2024 to Oct 2024</span>
+  </div>
   <ul>
     <li>Provided first level technical support across a 10,000+ user base.</li>
     <li>Assessed workstation security configurations and supported policy improvements.</li>
