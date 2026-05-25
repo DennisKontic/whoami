@@ -42,7 +42,7 @@ This page highlights my professional experience across IT support, cybersecurity
   </ul>
 
   <p><strong>Socials:</strong> <a href="https://linktr.ee/DonkeySec">https://linktr.ee/DonkeySec</a></p>
-  <p><strong>Labs:</strong> <a href="https://www.youtube.com/@DonkeySec">https://www.youtube.com/@DonkeySec</a></p>
+  <p><strong>YouTube:</strong> <a href="https://www.youtube.com/@DonkeySec">https://www.youtube.com/@DonkeySec</a></p>
 </div>
 
 <div class="experience-card">
@@ -136,7 +136,7 @@ This page highlights my professional experience across IT support, cybersecurity
 <br>
 
 <div align="center">
-  <a href="index.html" class="home-button">⬅️ Return to Home</a>
+  <a href="index.html" class="home-button">Return to Home</a>
 </div>
 
 <br>
