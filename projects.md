@@ -37,10 +37,6 @@ My blue team projects are now organized in a dedicated GitHub Pages portfolio.
   </div>
 </div>
 
-## Portfolio Link
-
-**[Open the Cybersecurity Lab Portfolio](https://denniskontic.github.io/cybersecurity-lab-portfolio/)**
-
 <div class="button-grid">
   <a class="primary-button" href="index.html">Return to Home</a>
   <a class="secondary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Open Cybersecurity Lab Portfolio</a>
