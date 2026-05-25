@@ -221,37 +221,46 @@ hr {
 }
 
 .experience-heading {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 1rem;
-  margin-bottom: 0.8rem;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: flex-start !important;
+  gap: 2rem !important;
+  margin-bottom: 1rem;
 }
 
-.experience-heading h3 {
-  margin: 0;
+.experience-main h3 {
+  margin: 0 0 0.25rem 0 !important;
   color: #ffffff !important;
+  font-size: 1.3rem !important;
 }
 
-.experience-heading p {
-  margin: 0.2rem 0 0;
-  color: #c6d4e5 !important;
+.experience-main p {
+  margin: 0 !important;
+  color: #dce6f2 !important;
 }
 
-.experience-heading span {
+.experience-date {
+  margin-left: auto;
   color: #8fb8e8;
   font-weight: 800;
   white-space: nowrap;
-  font-size: 0.95rem;
+  text-align: right;
+  font-size: 0.98rem;
+}
+
+.experience-card ul {
+  margin-top: 0.8rem;
 }
 
 @media screen and (max-width: 720px) {
   .experience-heading {
-    flex-direction: column;
-    gap: 0.3rem;
+    flex-direction: column !important;
+    gap: 0.4rem !important;
   }
 
-  .experience-heading span {
+  .experience-date {
+    margin-left: 0;
+    text-align: left;
     white-space: normal;
   }
 }
