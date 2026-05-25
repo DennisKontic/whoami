@@ -1,48 +1,42 @@
 # Projects
 
-My full blue team project portfolio is now hosted on a dedicated GitHub Pages site:
+My blue team projects are now organized in a dedicated GitHub Pages portfolio.
 
 <div class="featured-project">
-  <h2>Dennis Kontic Cybersecurity Lab Portfolio</h2>
+  <h2>Cybersecurity Lab Portfolio</h2>
   <p>
-    This portfolio contains my hands on cybersecurity projects across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, threat intelligence, detection engineering, web security, and certification labs.
+    This project portfolio contains my hands on cybersecurity work across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, threat intelligence, detection engineering, web security, and certification labs.
   </p>
   <p>
-    The site includes projects from Hack The Box, Blue Team Labs Online, TryHackMe, CyberDefenders, Microsoft Sentinel, Splunk, ANY.RUN, Volatility, Wireshark, Autopsy, and sanitized professional work.
+    The site includes projects from Hack The Box, Blue Team Labs Online, TryHackMe, CyberDefenders, Microsoft Sentinel, Splunk, ANY.RUN, Volatility, Wireshark, Autopsy, and sanitized professional experience.
   </p>
   <a class="project-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">View Cybersecurity Lab Portfolio</a>
 </div>
 
----
-
-## What You Will Find There
+## What This Portfolio Shows
 
 <div class="focus-grid">
   <div class="focus-card">
-    <h3>SOC Analysis</h3>
-    <p>Splunk, Microsoft Sentinel, alert triage, case reports, phishing investigations, and incident workflow.</p>
+    <h3>Investigation Skill</h3>
+    <p>How I investigate alerts, review evidence, identify suspicious activity, and document findings.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Digital Forensics</h3>
-    <p>Windows artifacts, memory analysis, disk image review, browser artifacts, event logs, and timeline reconstruction.</p>
+    <h3>Defensive Thinking</h3>
+    <p>How I connect attacker behavior to defensive actions, detection opportunities, and remediation steps.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Threat Intelligence</h3>
-    <p>IOC extraction, malware behavior, adversary analysis, attribution logic, sandbox reports, and phishing analysis.</p>
+    <h3>Technical Communication</h3>
+    <p>How I explain complex security activity in a clear format for analysts, recruiters, and technical reviewers.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Detection Engineering</h3>
-    <p>MITRE ATT&CK mapping, detection logic, telemetry review, alert validation, and coverage analysis.</p>
+    <h3>Practical Proof</h3>
+    <p>How I demonstrate blue team skills through labs, certification projects, and sanitized professional work.</p>
   </div>
 </div>
 
----
+## Portfolio Link
 
-## Why I Built It
-
-I built the cybersecurity lab portfolio to show practical work beyond certifications. Instead of only listing completed courses or badges, the site documents how I analyze evidence, investigate attacker behavior, explain findings, and connect technical observations to defensive actions.
-
-The goal is to give recruiters, hiring managers, and security professionals a clearer view of how I think through blue team investigations.
+**[Open the Cybersecurity Lab Portfolio](https://denniskontic.github.io/cybersecurity-lab-portfolio/)**
