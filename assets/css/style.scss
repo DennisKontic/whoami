@@ -59,3 +59,26 @@
     white-space: normal !important;
   }
 }
+/* Return to Home button */
+.home-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.8rem 1.2rem;
+  border-radius: 12px;
+  background: #2ea8ff;
+  color: #04101d !important;
+  border: 1px solid #2ea8ff;
+  font-weight: 800;
+  text-decoration: none !important;
+  box-shadow: 0 8px 22px rgba(46, 168, 255, 0.22);
+  transition: all 0.2s ease;
+}
+
+.home-button:hover {
+  background: #78caff;
+  color: #04101d !important;
+  transform: translateY(-2px);
+  text-decoration: none !important;
+}
