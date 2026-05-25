@@ -39,8 +39,6 @@ My blue team projects are now organized in a dedicated GitHub Pages portfolio.
 
 <br>
 
-<br>
-
 <div align="center">
   <a href="index.html" class="home-button">⬅️ Return to Home</a>
 </div>
