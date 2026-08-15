@@ -2,6 +2,7 @@
 
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
+  <a class="secondary-button" href="assets/DennisKonticCybersecurityResume.pdf">Resume</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
   <a class="secondary-button" href="https://www.linkedin.com/in/denniskontic">LinkedIn</a>
   <a class="secondary-button" href="mailto:denniskontic@yahoo.com">Contact Me</a>
@@ -134,6 +135,50 @@ I regularly build and study hands on environments across **Hack The Box, TryHack
   <a class="project-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">View Cybersecurity Lab Portfolio</a>
 </div>
 
+## Technical Skills & Tools
+
+<div class="focus-grid">
+  <div class="focus-card">
+    <h3>SIEM & Detection</h3>
+    <p>Splunk, Elastic, IBM QRadar, Microsoft Sentinel, Google SecOps</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Endpoint & Security Tools</h3>
+    <p>CrowdStrike Falcon, Microsoft Defender, SentinelOne, Microsoft Intune, Mimecast, Wireshark</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>IT Operations & Infrastructure</h3>
+    <p>ServiceNow, Jira, LogicMonitor, NinjaOne, Cisco, Veeam, Microsoft Teams, Google Workspace</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Forensics & Malware Analysis</h3>
+    <p>ANY.RUN, VirusTotal</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Offensive & Vulnerability</h3>
+    <p>Forta, Burp Suite, Metasploit, Nessus, Nikto, OpenVAS</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Cloud & Identity</h3>
+    <p>Azure, AWS, Active Directory, Microsoft Entra ID, Server Manager, Okta</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Frameworks & Compliance</h3>
+    <p>MITRE ATT&CK, OWASP Top 10, CIA Triad, NIST, ISO 27001, HIPAA, GDPR, PCI DSS</p>
+  </div>
+
+  <div class="focus-card">
+    <h3>Scripting & Operating Systems</h3>
+    <p>Python, SQL, PowerShell, Bash, Linux, Windows, macOS, HTML</p>
+  </div>
+</div>
+
 ## Certifications
 
 <div class="cert-grid">
@@ -155,6 +200,7 @@ I regularly build and study hands on environments across **Hack The Box, TryHack
 
 <div class="link-list">
   <p><strong>Cybersecurity Lab Portfolio:</strong> <a href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">https://denniskontic.github.io/cybersecurity-lab-portfolio/</a></p>
+  <p><strong>Resume:</strong> <a href="assets/DennisKonticCybersecurityResume.pdf">View my resume</a></p>
   <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/denniskontic">https://www.linkedin.com/in/denniskontic</a></p>
   <p><strong>DonkeySec YouTube:</strong> <a href="https://www.youtube.com/@DonkeySec">https://www.youtube.com/@DonkeySec</a></p>
   <p><strong>DonkeySec Socials:</strong> <a href="https://linktr.ee/DonkeySec">https://linktr.ee/DonkeySec</a></p>
