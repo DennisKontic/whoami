@@ -39,7 +39,7 @@ These certifications focus on practical SOC skills, incident response, threat hu
 | Certification | Issuing Org | What It Validates |
 | :--- | :--- | :--- |
 | **HTB CDSA** (Certified Defensive Security Analyst) | Hack The Box | **SOC Analysis:** Practical defensive security covering log analysis, incident investigation, malware analysis, threat hunting, and SOC workflows. |
-| **HTB CJCA** (Certified Junior Cybersecurity Analyst) | Hack The Box | **Cybersecurity Operations:** Hands on junior analyst skills spanning reconnaissance, exploitation fundamentals, Active Directory, security analysis, and defensive awareness. |
+| **HTB CJCA** (Certified Junior Cybersecurity Associate) | Hack The Box | **Cybersecurity Operations:** Hands on junior cybersecurity skills spanning reconnaissance, exploitation fundamentals, Active Directory, security analysis, network fundamentals, and defensive awareness. |
 | **BTL1** (Blue Team Level 1) | Security Blue Team | **Practical Defense:** Hands on SIEM, phishing analysis, digital forensics, threat intelligence, and incident response skills. |
 | **CCDL1** (Certified CyberDefender Level 1) | CyberDefenders | **SOC Readiness:** Practical junior SOC analyst skills including alert triage, threat intelligence, phishing investigation, digital forensics, and incident response. |
 | **CySA+** (Cybersecurity Analyst) | CompTIA | **Threat Detection:** Security operations, vulnerability management, incident response, threat intelligence, and behavioral analytics. |
