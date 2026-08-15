@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧪 HackTheBox Achievements
+title: 🧪 Hack The Box Achievements
 ---
 
 <style>
@@ -54,6 +54,7 @@ title: 🧪 HackTheBox Achievements
     border: 1px solid #263244;
     padding: 12px;
     text-align: left;
+    vertical-align: top;
   }
 
   .htb-table th {
@@ -118,11 +119,11 @@ title: 🧪 HackTheBox Achievements
   }
 </style>
 
-### 🧪 HackTheBox Profile
+### 🧪 Hack The Box Profile
 
 <div class="htb-card">
   <p>
-    I use HackTheBox to sharpen hands on cybersecurity skills across SOC analysis, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, AI Red Teaming, and AI Defense.
+    I use Hack The Box Academy to develop hands on skills across security operations, digital forensics, incident response, threat hunting, malware analysis, network traffic analysis, Active Directory security, penetration testing, web application security, AI red teaming, and AI defense.
   </p>
 
   <table class="htb-table">
@@ -132,15 +133,15 @@ title: 🧪 HackTheBox Achievements
     </tr>
     <tr>
       <td><strong>HTB Rank</strong></td>
-      <td><strong>Professional</strong></td>
+      <td><strong>Master</strong></td>
     </tr>
     <tr>
       <td><strong>Level</strong></td>
-      <td><strong>56</strong></td>
+      <td><strong>71</strong></td>
     </tr>
     <tr>
       <td><strong>Level XP</strong></td>
-      <td><strong>951 / 1589</strong></td>
+      <td><strong>242 / 2507</strong></td>
     </tr>
     <tr>
       <td><strong>Grade</strong></td>
@@ -148,57 +149,47 @@ title: 🧪 HackTheBox Achievements
     </tr>
     <tr>
       <td><strong>Primary Focus</strong></td>
-      <td>Blue Team, SOC Analysis, Defensive Security, AI Security, and Threat Hunting</td>
+      <td>Blue Team, SOC Analysis, Defensive Security, AI Security, Threat Hunting, DFIR, and Offensive Security</td>
     </tr>
   </table>
 </div>
 
 <br>
 
-### 🏆 Featured HackTheBox Certification
+### 🏆 Hack The Box Certifications
 
-<div class="htb-card">
-  <h3>HTB Certified Defensive Security Analyst</h3>
+<div class="htb-badge-grid">
 
-  <table class="htb-table">
-    <tr>
-      <th>Certification Detail</th>
-      <th>Information</th>
-    </tr>
-    <tr>
-      <td><strong>Certification</strong></td>
-      <td><strong>HackTheBox Certified Defensive Security Analyst</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Abbreviation</strong></td>
-      <td><strong>HTB CDSA</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Status</strong></td>
-      <td>Certification obtained</td>
-    </tr>
-    <tr>
-      <td><strong>Earned</strong></td>
-      <td>August 8, 2025</td>
-    </tr>
-    <tr>
-      <td><strong>Rarity</strong></td>
-      <td><span class="rare">0%</span></td>
-    </tr>
-    <tr>
-      <td><strong>Players</strong></td>
-      <td><span class="metric">1,021</span></td>
-    </tr>
-  </table>
+  <div class="badge-card">
+    <h4>HTB Certified Offensive AI Expert</h4>
+    <p><strong>Abbreviation:</strong> COAE</p>
+    <p><strong>Earned:</strong> August 2026</p>
+    <p><strong>Status:</strong> Certified</p>
+    <p><strong>Focus:</strong> Offensive AI security, prompt injection, model attacks, AI evasion, application and system attacks, and adversarial testing.</p>
+    <p><a href="https://profile.hackthebox.com/certificate/HTBCERT-E92F0F3E57">View Credential</a></p>
+  </div>
 
-  <p>
-    The <span class="cert-highlight">HTB Certified Defensive Security Analyst</span> certification validates practical defensive security skills, including log analysis, incident investigation, SOC workflows, malware analysis, threat hunting, and enterprise defensive operations.
-  </p>
+  <div class="badge-card">
+    <h4>HTB Certified Junior Cybersecurity Associate</h4>
+    <p><strong>Abbreviation:</strong> CJCA</p>
+    <p><strong>Earned:</strong> May 2026</p>
+    <p><strong>Status:</strong> Verified</p>
+    <p><strong>Focus:</strong> Foundational offensive and defensive cybersecurity skills, enterprise enumeration, exploitation, network analysis, and security operations.</p>
+  </div>
+
+  <div class="badge-card">
+    <h4>HTB Certified Defensive Security Analyst</h4>
+    <p><strong>Abbreviation:</strong> CDSA</p>
+    <p><strong>Earned:</strong> August 8, 2025</p>
+    <p><strong>Status:</strong> Certified</p>
+    <p><strong>Focus:</strong> SOC analysis, log investigation, incident response, malware analysis, threat hunting, network traffic analysis, and security reporting.</p>
+  </div>
+
 </div>
 
 <br>
 
-### 🛡️ HackTheBox Academy Paths Completed
+### 🛡️ Hack The Box Academy Paths Completed
 
 <div class="htb-badge-grid">
 
@@ -233,15 +224,13 @@ title: 🧪 HackTheBox Achievements
 
 <br>
 
-### 🎖️ HackTheBox Academy Badges
+### 🎖️ Featured Academy Module Badges
 
 <div class="htb-badge-grid">
 
   <div class="badge-card">
     <h4>AD Security Captain</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> Windows Attacks & Defense</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> March 29, 2025</p>
     <p><strong>Rarity:</strong> <span class="rare">0.2%</span></p>
     <p><strong>Players:</strong> <span class="metric">6,289</span></p>
@@ -249,9 +238,7 @@ title: 🧪 HackTheBox Achievements
 
   <div class="badge-card">
     <h4>The Packet Protector</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> Intermediate Network Traffic Analysis</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> April 15, 2025</p>
     <p><strong>Rarity:</strong> <span class="rare">0.3%</span></p>
     <p><strong>Players:</strong> <span class="metric">7,895</span></p>
@@ -259,9 +246,7 @@ title: 🧪 HackTheBox Achievements
 
   <div class="badge-card">
     <h4>Model Breaker</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> Introduction to Red Teaming AI</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> April 14, 2026</p>
     <p><strong>Rarity:</strong> <span class="rare">0.1%</span></p>
     <p><strong>Players:</strong> <span class="metric">2,801</span></p>
@@ -269,9 +254,7 @@ title: 🧪 HackTheBox Achievements
 
   <div class="badge-card">
     <h4>Synthetic Intelligence</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> Applications of AI in InfoSec</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> April 14, 2026</p>
     <p><strong>Rarity:</strong> <span class="rare">0.1%</span></p>
     <p><strong>Players:</strong> <span class="metric">2,464</span></p>
@@ -279,9 +262,7 @@ title: 🧪 HackTheBox Achievements
 
   <div class="badge-card">
     <h4>Prompt Phantom</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> Prompt Injection Attacks</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> April 15, 2026</p>
     <p><strong>Rarity:</strong> <span class="rare">0.1%</span></p>
     <p><strong>Players:</strong> <span class="metric">2,643</span></p>
@@ -289,9 +270,7 @@ title: 🧪 HackTheBox Achievements
 
   <div class="badge-card">
     <h4>AI Shield</h4>
-    <p><strong>Badge Type:</strong> Academy Module Badge</p>
     <p><strong>Module:</strong> AI Defense</p>
-    <p><strong>Status:</strong> Module completed</p>
     <p><strong>Earned:</strong> April 25, 2026</p>
     <p><strong>Rarity:</strong> <span class="rare">0%</span></p>
     <p><strong>Players:</strong> <span class="metric">419</span></p>
@@ -301,7 +280,113 @@ title: 🧪 HackTheBox Achievements
 
 <br>
 
-### 🔎 Skills Demonstrated Through HackTheBox
+### 🔵 Security Operations, DFIR & Blue Team Modules
+
+<table class="htb-table">
+  <tr><th>Achievement</th><th>Completed Academy Module</th></tr>
+  <tr><td><strong>Lurk in the packets</strong></td><td>Intro to Network Traffic Analysis</td></tr>
+  <tr><td><strong>AD Security Captain</strong></td><td>Windows Attacks & Defense</td></tr>
+  <tr><td><strong>Panoptic</strong></td><td>Incident Handling Process</td></tr>
+  <tr><td><strong>Anticipate the next attack</strong></td><td>Security Monitoring & SIEM Fundamentals</td></tr>
+  <tr><td><strong>Predict the next move</strong></td><td>Introduction to Threat Hunting & Hunting With Elastic</td></tr>
+  <tr><td><strong>Log keeper</strong></td><td>Windows Event Logs & Finding Evil</td></tr>
+  <tr><td><strong>SPL Witchcraft</strong></td><td>Understanding Log Sources & Investigating with Splunk</td></tr>
+  <tr><td><strong>Packet carver</strong></td><td>Working with IDS/IPS</td></tr>
+  <tr><td><strong>Infection detected</strong></td><td>Introduction to Malware Analysis</td></tr>
+  <tr><td><strong>The packet protector</strong></td><td>Intermediate Network Traffic Analysis</td></tr>
+  <tr><td><strong>APT slayer</strong></td><td>Detecting Windows Attacks with Splunk</td></tr>
+  <tr><td><strong>Flare guardian</strong></td><td>YARA & Sigma for SOC Analysts</td></tr>
+  <tr><td><strong>Chronicle champion</strong></td><td>Security Incident Reporting</td></tr>
+  <tr><td><strong>Code blue</strong></td><td>Introduction to Digital Forensics</td></tr>
+</table>
+
+<br>
+
+### 🤖 AI Security & Offensive AI Modules
+
+<table class="htb-table">
+  <tr><th>Achievement</th><th>Completed Academy Module</th></tr>
+  <tr><td><strong>Superior Intelligence</strong></td><td>Fundamentals of AI</td></tr>
+  <tr><td><strong>Synthetic Intelligence</strong></td><td>Applications of AI in InfoSec</td></tr>
+  <tr><td><strong>Model breaker</strong></td><td>Introduction to Red Teaming AI</td></tr>
+  <tr><td><strong>Prompt phantom</strong></td><td>Prompt Injection Attacks</td></tr>
+  <tr><td><strong>Data Distorter</strong></td><td>AI Data Attacks</td></tr>
+  <tr><td><strong>Output Overdrive</strong></td><td>LLM Output Attacks</td></tr>
+  <tr><td><strong>Protocol Breaker</strong></td><td>Attacking AI - Application and System</td></tr>
+  <tr><td><strong>ModelEvader</strong></td><td>AI Evasion - Foundations</td></tr>
+  <tr><td><strong>GradientGhost</strong></td><td>AI Evasion - First-Order Attacks</td></tr>
+  <tr><td><strong>PixelSniper</strong></td><td>AI Evasion - Sparsity Attacks</td></tr>
+  <tr><td><strong>ShadowGuard</strong></td><td>AI Privacy</td></tr>
+  <tr><td><strong>AI Shield</strong></td><td>AI Defense</td></tr>
+</table>
+
+<br>
+
+### 🔴 Penetration Testing, Web & Active Directory Modules
+
+<table class="htb-table">
+  <tr><th>Achievement</th><th>Completed Academy Module</th></tr>
+  <tr><td><strong>Hacking in the wild</strong></td><td>Hacking WordPress</td></tr>
+  <tr><td><strong>The eye that sees all</strong></td><td>Network Enumeration with Nmap</td></tr>
+  <tr><td><strong>Do things the traditional way</strong></td><td>Introduction to Bash Scripting</td></tr>
+  <tr><td><strong>Every road leads back to root</strong></td><td>File Inclusion</td></tr>
+  <tr><td><strong>Airborne delivery</strong></td><td>File Transfers</td></tr>
+  <tr><td><strong>DROP your weapon</strong></td><td>SQL Injection Fundamentals</td></tr>
+  <tr><td><strong>Combine the modules</strong></td><td>Using the Metasploit Framework</td></tr>
+  <tr><td><strong>Playing with the mess</strong></td><td>JavaScript Deobfuscation</td></tr>
+  <tr><td><strong>Stairway to Heaven</strong></td><td>Linux Privilege Escalation</td></tr>
+  <tr><td><strong>Fuzzing is power</strong></td><td>Attacking Web Applications with Ffuf</td></tr>
+  <tr><td><strong>Crude but effective</strong></td><td>Login Brute Forcing</td></tr>
+  <tr><td><strong>JOIN the adventure</strong></td><td>SQLMap Essentials</td></tr>
+  <tr><td><strong>Reach new (permission) heights</strong></td><td>Windows Privilege Escalation</td></tr>
+  <tr><td><strong>Just a small crack, and you're in</strong></td><td>Broken Authentication</td></tr>
+  <tr><td><strong>Tactical</strong></td><td>Penetration Testing Process</td></tr>
+  <tr><td><strong>Included in every report</strong></td><td>Cross-Site Scripting (XSS)</td></tr>
+  <tr><td><strong>Light in the dark</strong></td><td>Vulnerability Assessment</td></tr>
+  <tr><td><strong>Inject with caution</strong></td><td>Command Injections</td></tr>
+  <tr><td><strong>Dive into requests</strong></td><td>Using Web Proxies</td></tr>
+  <tr><td><strong>You need to trace before you can hunt</strong></td><td>Footprinting</td></tr>
+  <tr><td><strong>Attack from the outside</strong></td><td>Attacking Common Applications</td></tr>
+  <tr><td><strong>Ghost in the shell</strong></td><td>Shells & Payloads</td></tr>
+  <tr><td><strong>Scan and execute</strong></td><td>Attacking Common Services</td></tr>
+  <tr><td><strong>Arachnoid</strong></td><td>Web Attacks</td></tr>
+  <tr><td><strong>Prepare your payload and up you go</strong></td><td>File Upload Attacks</td></tr>
+  <tr><td><strong>Enumerate & Attack!</strong></td><td>Active Directory Enumeration & Attacks</td></tr>
+  <tr><td><strong>Information is not knowledge, or is it?</strong></td><td>Information Gathering - Web Edition</td></tr>
+  <tr><td><strong>Straight to the server</strong></td><td>Server-side Attacks</td></tr>
+  <tr><td><strong>Grab the keys and move laterally</strong></td><td>Password Attacks</td></tr>
+  <tr><td><strong>Explore deep space</strong></td><td>Pivoting, Tunneling, and Port Forwarding</td></tr>
+  <tr><td><strong>Hunt the bug</strong></td><td>Bug Bounty Hunting Process</td></tr>
+  <tr><td><strong>Time-consuming but important</strong></td><td>Documentation & Reporting</td></tr>
+  <tr><td><strong>All systems activated</strong></td><td>Attacking Enterprise Networks</td></tr>
+  <tr><td><strong>Endpoint Explorer</strong></td><td>API Attacks</td></tr>
+  <tr><td><strong>Fuzzing guru</strong></td><td>Web Fuzzing</td></tr>
+  <tr><td><strong>Graph invader</strong></td><td>Attacking GraphQL</td></tr>
+  <tr><td><strong>Infiltration Learner</strong></td><td>Introduction to Penetration Testing</td></tr>
+  <tr><td><strong>Offensive explorer</strong></td><td>Pentest in a Nutshell</td></tr>
+</table>
+
+<br>
+
+### 🧱 Foundations, Operating Systems & Networking Modules
+
+<table class="htb-table">
+  <tr><th>Achievement</th><th>Completed Academy Module</th></tr>
+  <tr><td><strong>Introduction to Academy</strong></td><td>Introduction to Academy</td></tr>
+  <tr><td><strong>Our favorite seabird</strong></td><td>Linux Fundamentals</td></tr>
+  <tr><td><strong>Everything is connected</strong></td><td>Introduction to Networking</td></tr>
+  <tr><td><strong>Your request is my demand</strong></td><td>Web Requests</td></tr>
+  <tr><td><strong>Crawl, walk, run</strong></td><td>Windows Fundamentals</td></tr>
+  <tr><td><strong>Developer</strong></td><td>Introduction to Web Applications</td></tr>
+  <tr><td><strong>Your first battle</strong></td><td>Getting Started</td></tr>
+  <tr><td><strong>Look ma, no mouse!</strong></td><td>Introduction to Windows Command Line</td></tr>
+  <tr><td><strong>Cyber starter</strong></td><td>Introduction to Information Security</td></tr>
+  <tr><td><strong>Solid basis</strong></td><td>Network Foundations</td></tr>
+</table>
+
+<br>
+
+### 🔎 Skills Demonstrated Through Hack The Box
 
 <div class="htb-card">
   <ul class="skills-list">
@@ -309,12 +394,18 @@ title: 🧪 HackTheBox Achievements
     <li><strong>Digital Forensics and Incident Response</strong></li>
     <li><strong>Threat Hunting</strong></li>
     <li><strong>Malware Analysis</strong></li>
+    <li><strong>SIEM Investigation</strong></li>
     <li><strong>Network Traffic Analysis</strong></li>
     <li><strong>Active Directory Security</strong></li>
+    <li><strong>Vulnerability Assessment</strong></li>
+    <li><strong>Penetration Testing</strong></li>
+    <li><strong>Web Application Security</strong></li>
     <li><strong>Prompt Injection Testing</strong></li>
     <li><strong>AI Red Teaming</strong></li>
-    <li><strong>AI Defense</strong></li>
+    <li><strong>Adversarial AI and Evasion</strong></li>
+    <li><strong>AI Defense and Privacy</strong></li>
     <li><strong>Detection Engineering</strong></li>
+    <li><strong>Security Incident Reporting</strong></li>
   </ul>
 </div>
 

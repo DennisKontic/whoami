@@ -1,10 +1,12 @@
 # Dennis Kontic
 
+**Cybersecurity Professional | Blue Team Operations | Vulnerability Management | Incident Response | Endpoint Security | IAM**
+
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
+  <a class="secondary-button" href="https://www.linkedin.com/in/denniskontic">LinkedIn</a>
   <a class="secondary-button" href="mailto:denniskontic@yahoo.com">Contact Me</a>
-  <a class="secondary-button" href="assets/Dennis_Kontic_Resume.pdf">Resume</a>
 </div>
 
 <div class="menu-grid">
@@ -20,33 +22,37 @@
 
 ## About Me
 
-I am **Dennis Kontic**, a cybersecurity graduate and blue team practitioner focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, threat intelligence, and detection engineering.
+I am **Dennis Kontic**, a cybersecurity professional focused on **Blue Team operations, vulnerability management, incident response, endpoint security, and identity and access management**.
 
-I graduated from **Lindenwood University** with a **Bachelor of Science in Cybersecurity** and a **Minor in Business Administration**, earning a **3.94 GPA**. My background includes IT support, public sector IT, information security, detection engineering, and cybersecurity education through DonkeySec.
+I currently work as a **Level 1 IT Technician at CarShield**, where my responsibilities have expanded into cybersecurity. I perform vulnerability scanning across endpoints supporting three affiliated companies, triage and investigate **SentinelOne EDR alerts** involving malicious endpoint activity and phishing, and support IAM lifecycle and privileged access processes using **Microsoft Entra PIM, MFA, and least privilege principles**.
 
-I use this site as my main professional profile. My deeper technical work is hosted separately in my cybersecurity lab portfolio, where I document blue team projects, lab investigations, certification projects, and sanitized professional work.
+Previously, as an **Information Security Intern at Ascend Learning**, I triaged 10+ SIEM alerts daily, investigated phishing and malicious attachments, escalated verified security incidents, identified false positive tuning opportunities, and supported MITRE ATT&CK based detection engineering. I also gained public sector IT experience with **St. Charles County Government** supporting a large enterprise user environment.
+
+Through **DonkeySec**, I create hands on cybersecurity education for **3,500+ learners and practitioners**, averaging approximately **20,000 monthly impressions**. My content translates offensive attack techniques into practical defensive labs, walkthroughs, and tutorials across SOC analysis, DFIR, threat hunting, malware analysis, vulnerability management, detection engineering, and AI security.
+
+I regularly build and study hands on environments across **Hack The Box, TryHackMe, CyberDefenders, Blue Team Labs Online, and other cybersecurity platforms**. I hold a **Bachelor of Science in Cybersecurity** with a **Minor in Business Administration** from Lindenwood University, where I graduated **Summa Cum Laude with a 3.94 GPA**.
 
 ## Professional Focus
 
 <div class="focus-grid">
   <div class="focus-card">
-    <h3>SOC Analysis</h3>
-    <p>Alert triage, SIEM investigation, case documentation, escalation workflows, and analyst decision making.</p>
+    <h3>Security Operations</h3>
+    <p>Alert triage, endpoint investigation, phishing analysis, case documentation, escalation, and security monitoring.</p>
   </div>
 
   <div class="focus-card">
-    <h3>DFIR</h3>
-    <p>Windows artifacts, memory analysis, log review, forensic timelines, malware triage, and evidence correlation.</p>
+    <h3>Vulnerability Management</h3>
+    <p>Endpoint vulnerability scanning, finding validation, remediation communication, configuration review, and risk reduction.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Threat Hunting</h3>
-    <p>Attacker behavior analysis, suspicious activity review, MITRE ATT&CK mapping, and hypothesis driven investigation.</p>
+    <h3>Incident Response & DFIR</h3>
+    <p>Evidence analysis, attack reconstruction, Windows artifacts, log review, malware triage, forensic timelines, and remediation recommendations.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Detection Engineering</h3>
-    <p>Detection logic, telemetry review, rule validation, coverage mapping, and defensive gap analysis.</p>
+    <h3>Endpoint Security & IAM</h3>
+    <p>EDR investigation, user lifecycle administration, MFA, privileged access, Microsoft Entra PIM, and least privilege access controls.</p>
   </div>
 </div>
 
@@ -63,9 +69,10 @@ I use this site as my main professional profile. My deeper technical work is hos
   </div>
 
   <ul>
-    <li>Resolved 15+ daily IT support tickets involving account access, endpoint troubleshooting, software issues, VPN connectivity, and user system errors while documenting actions and maintaining service level expectations.</li>
-    <li>Supported identity and access management requests, including password resets, MFA troubleshooting, account unlocks, permission changes, and user access issues across internal systems.</li>
-    <li>Maintained a 5.0/5.0 customer satisfaction rating across 100+ support reviews by delivering clear communication, professional follow up, and reliable resolution for internal users.</li>
+    <li>Perform vulnerability scans across endpoints supporting three affiliated companies, identifying, documenting, and communicating security findings for remediation using Forta.</li>
+    <li>Triage and investigate SentinelOne EDR alerts involving malicious endpoint activity, phishing, and vulnerability related events, validating affected systems, documenting findings, and escalating higher risk incidents.</li>
+    <li>Administer IAM lifecycle and access control tasks including onboarding and offboarding, account provisioning and deprovisioning, permission changes, MFA, and Microsoft Entra PIM to support least privilege access.</li>
+    <li>Resolve approximately 15 daily IT support tickets involving account access, endpoint troubleshooting, software, VPN connectivity, hardware, and user system issues.</li>
   </ul>
 </div>
 
@@ -80,9 +87,9 @@ I use this site as my main professional profile. My deeper technical work is hos
   </div>
 
   <ul>
-    <li>Created educational blue team content for 3,500+ practitioners, averaging 20,000 impressions per month across YouTube, TikTok, Instagram, X, and Facebook.</li>
-    <li>Developed hands on labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management, and detection engineering.</li>
-    <li>Analyzed scenarios from Hack The Box, TryHackMe, CyberDefenders, CompTIA, and Blue Team Labs Online to translate advanced cybersecurity challenges into accessible learning content.</li>
+    <li>Create educational blue team content for 3,500+ cybersecurity learners and practitioners, averaging approximately 20,000 monthly impressions across multiple social platforms.</li>
+    <li>Develop hands on labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management, detection engineering, AI security, and certification preparation.</li>
+    <li>Translate realistic scenarios from Hack The Box, TryHackMe, CyberDefenders, CompTIA, and Blue Team Labs Online into practical learning content.</li>
   </ul>
 </div>
 
@@ -97,9 +104,9 @@ I use this site as my main professional profile. My deeper technical work is hos
   </div>
 
   <ul>
+    <li>Triaged and investigated 10+ SIEM alerts daily, classified events by severity, documented findings, and escalated verified high risk incidents.</li>
     <li>Investigated suspicious emails and analyzed malicious attachments using ANY.RUN and VirusTotal, contributing to the identification and blocking of 50+ credential harvesting attempts.</li>
-    <li>Triaged and investigated 10+ security alerts daily within a SIEM, classified events by severity, and escalated verified high risk incidents to senior analysts.</li>
-    <li>Supported detection engineering work by mapping telemetry to MITRE ATT&CK and developing detection logic across multiple security tools.</li>
+    <li>Reduced alert fatigue by identifying false positive tuning opportunities and supported detection engineering through MITRE ATT&CK coverage mapping and detection logic validation.</li>
   </ul>
 </div>
 
@@ -114,9 +121,9 @@ I use this site as my main professional profile. My deeper technical work is hos
   </div>
 
   <ul>
-    <li>Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues and reducing user downtime across departments.</li>
-    <li>Assessed workstation security configurations, identified vulnerabilities, and implemented policy updates that improved compliance by 20%.</li>
-    <li>Supported IT asset inventory tracking for over $1M in hardware and software, improving asset organization, inventory accuracy, and day to day operational visibility.</li>
+    <li>Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues and reducing user downtime.</li>
+    <li>Assessed workstation security configurations, identified configuration gaps, and supported policy updates that improved compliance by 20%.</li>
+    <li>Supported IT asset inventory tracking for over $1M in hardware and software.</li>
   </ul>
 </div>
 
@@ -124,36 +131,33 @@ I use this site as my main professional profile. My deeper technical work is hos
 
 <div class="featured-project">
   <h3>Dennis Kontic Cybersecurity Lab Portfolio</h3>
-  <p>
-    My full technical project portfolio is hosted separately. It includes blue team projects, lab investigations, certification projects, defensive security writeups, and sanitized professional work.
-  </p>
-  <p>
-    The portfolio shows how I investigate alerts, analyze evidence, reconstruct attacker behavior, map activity to MITRE ATT&CK, and recommend defensive actions.
-  </p>
+  <p>My full technical project portfolio contains blue team projects, lab investigations, certification projects, defensive security writeups, and sanitized professional work.</p>
+  <p>The portfolio demonstrates how I investigate alerts, analyze evidence, reconstruct attacker behavior, map activity to MITRE ATT&CK, and recommend defensive actions.</p>
   <a class="project-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">View Cybersecurity Lab Portfolio</a>
 </div>
 
 ## Certifications
 
 <div class="cert-grid">
-  <span>CompTIA Security+</span>
-  <span>CompTIA CySA+</span>
-  <span>Hack The Box CDSA</span>
+  <span>HTB Certified Offensive AI Expert (COAE)</span>
+  <span>HTB Certified Defensive Security Analyst (CDSA)</span>
+  <span>HTB Certified Junior Cybersecurity Associate (CJCA)</span>
   <span>Security Blue Team BTL1</span>
+  <span>CompTIA CySA+</span>
+  <span>CompTIA Security+</span>
   <span>CyberDefenders CCDL1</span>
   <span>TryHackMe SAL1</span>
   <span>ISC2 Certified in Cybersecurity</span>
-  <span>Google Cybersecurity Certificate</span>
-  <span>Google and CompTIA Dual Credential</span>
   <span>Cloud Security Alliance CCSK</span>
   <span>Cloud Security Alliance CCZT</span>
+  <span>Google Cybersecurity Certificate</span>
 </div>
 
 ## Links
 
 <div class="link-list">
   <p><strong>Cybersecurity Lab Portfolio:</strong> <a href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">https://denniskontic.github.io/cybersecurity-lab-portfolio/</a></p>
-  <p><strong>Resume:</strong> <a href="assets/Dennis_Kontic_Resume.pdf">View my resume</a></p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/denniskontic">https://www.linkedin.com/in/denniskontic</a></p>
   <p><strong>DonkeySec YouTube:</strong> <a href="https://www.youtube.com/@DonkeySec">https://www.youtube.com/@DonkeySec</a></p>
   <p><strong>DonkeySec Socials:</strong> <a href="https://linktr.ee/DonkeySec">https://linktr.ee/DonkeySec</a></p>
   <p><strong>GitHub:</strong> <a href="https://github.com/DennisKontic">https://github.com/DennisKontic</a></p>
