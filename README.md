@@ -17,6 +17,7 @@
   <a href="hackthebox.html">Hack The Box</a>
   <a href="honors.html">Honors</a>
   <a href="recommendations&testimonials.html">Testimonials</a>
+  <a href="#technical-skills-tools">Technical Skills & Tools</a>
 </div>
 
 ## About Me
@@ -135,6 +136,7 @@ I regularly build and study hands on environments across **Hack The Box, TryHack
   <a class="project-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">View Cybersecurity Lab Portfolio</a>
 </div>
 
+<a id="technical-skills-tools"></a>
 ## Technical Skills & Tools
 
 <div class="focus-grid">
