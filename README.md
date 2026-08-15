@@ -5,8 +5,8 @@
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
+  <a class="secondary-button" href="https://www.linkedin.com/in/denniskontic">LinkedIn</a>
   <a class="secondary-button" href="mailto:denniskontic@yahoo.com">Contact Me</a>
-  <a class="secondary-button" href="assets/Dennis_Kontic_Resume.pdf">Resume</a>
 </div>
 
 <div class="menu-grid">
@@ -157,7 +157,7 @@ I regularly build and study hands on environments across **Hack The Box, TryHack
 
 <div class="link-list">
   <p><strong>Cybersecurity Lab Portfolio:</strong> <a href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">https://denniskontic.github.io/cybersecurity-lab-portfolio/</a></p>
-  <p><strong>Resume:</strong> <a href="assets/Dennis_Kontic_Resume.pdf">View my resume</a></p>
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/denniskontic">https://www.linkedin.com/in/denniskontic</a></p>
   <p><strong>DonkeySec YouTube:</strong> <a href="https://www.youtube.com/@DonkeySec">https://www.youtube.com/@DonkeySec</a></p>
   <p><strong>DonkeySec Socials:</strong> <a href="https://linktr.ee/DonkeySec">https://linktr.ee/DonkeySec</a></p>
   <p><strong>GitHub:</strong> <a href="https://github.com/DennisKontic">https://github.com/DennisKontic</a></p>
