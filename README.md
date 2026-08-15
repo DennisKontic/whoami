@@ -1,5 +1,7 @@
 # Dennis Kontic
 
+**Cybersecurity Professional | Blue Team Operations | Vulnerability Management | Incident Response | Endpoint Security | IAM**
+
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
@@ -20,35 +22,37 @@
 
 ## About Me
 
-I am **Dennis Kontic**, a cybersecurity graduate and blue team practitioner with professional experience across security operations, IT support, public sector IT, and cybersecurity education.
+I am **Dennis Kontic**, a cybersecurity professional focused on **Blue Team operations, vulnerability management, incident response, endpoint security, and identity and access management**.
 
-I graduated from **Lindenwood University** with a **Bachelor of Science in Cybersecurity** and a **Minor in Business Administration**, earning a **3.94 GPA** and graduating **Summa Cum Laude**.
+I currently work as a **Level 1 IT Technician at CarShield**, where my responsibilities have expanded into cybersecurity. I perform vulnerability scanning across endpoints supporting three affiliated companies, triage and investigate **SentinelOne EDR alerts** involving malicious endpoint activity and phishing, and support IAM lifecycle and privileged access processes using **Microsoft Entra PIM, MFA, and least privilege principles**.
 
-My current work at **CarShield** combines enterprise IT support with hands on security responsibilities including **SentinelOne EDR alert triage, vulnerability management, identity and access administration, Microsoft Entra PIM, MFA, and least privilege access controls**. My earlier information security internship experience included SIEM alert investigation, phishing analysis, malware triage, MITRE ATT&CK mapping, detection engineering, and incident escalation.
+Previously, as an **Information Security Intern at Ascend Learning**, I triaged 10+ SIEM alerts daily, investigated phishing and malicious attachments, escalated verified security incidents, identified false positive tuning opportunities, and supported MITRE ATT&CK based detection engineering. I also gained public sector IT experience with **St. Charles County Government** supporting a large enterprise user environment.
 
-Through **DonkeySec**, I create practical cybersecurity education focused on SOC analysis, DFIR, incident response, threat hunting, malware analysis, vulnerability management, detection engineering, and hands on certification preparation.
+Through **DonkeySec**, I create hands on cybersecurity education for **3,500+ learners and practitioners**, averaging approximately **20,000 monthly impressions**. My content translates offensive attack techniques into practical defensive labs, walkthroughs, and tutorials across SOC analysis, DFIR, threat hunting, malware analysis, vulnerability management, detection engineering, and AI security.
+
+I regularly build and study hands on environments across **Hack The Box, TryHackMe, CyberDefenders, Blue Team Labs Online, and other cybersecurity platforms**. I hold a **Bachelor of Science in Cybersecurity** with a **Minor in Business Administration** from Lindenwood University, where I graduated **Summa Cum Laude with a 3.94 GPA**.
 
 ## Professional Focus
 
 <div class="focus-grid">
   <div class="focus-card">
     <h3>Security Operations</h3>
-    <p>Alert triage, endpoint investigation, case documentation, escalation, identity and access review, and vulnerability management.</p>
+    <p>Alert triage, endpoint investigation, phishing analysis, case documentation, escalation, and security monitoring.</p>
   </div>
 
   <div class="focus-card">
-    <h3>DFIR</h3>
-    <p>Windows artifacts, memory analysis, log review, forensic timelines, malware triage, and evidence correlation.</p>
+    <h3>Vulnerability Management</h3>
+    <p>Endpoint vulnerability scanning, finding validation, remediation communication, configuration review, and risk reduction.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Threat Hunting</h3>
-    <p>Attacker behavior analysis, suspicious activity review, MITRE ATT&CK mapping, and hypothesis driven investigation.</p>
+    <h3>Incident Response & DFIR</h3>
+    <p>Evidence analysis, attack reconstruction, Windows artifacts, log review, malware triage, forensic timelines, and remediation recommendations.</p>
   </div>
 
   <div class="focus-card">
-    <h3>Detection Engineering</h3>
-    <p>Detection logic, telemetry review, rule validation, coverage mapping, adversary emulation, and defensive gap analysis.</p>
+    <h3>Endpoint Security & IAM</h3>
+    <p>EDR investigation, user lifecycle administration, MFA, privileged access, Microsoft Entra PIM, and least privilege access controls.</p>
   </div>
 </div>
 
@@ -83,8 +87,8 @@ Through **DonkeySec**, I create practical cybersecurity education focused on SOC
   </div>
 
   <ul>
-    <li>Create educational cybersecurity content for 3,500+ learners, reaching approximately 20,000 impressions per month across multiple platforms.</li>
-    <li>Develop hands on tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management, detection engineering, and certification preparation.</li>
+    <li>Create educational blue team content for 3,500+ cybersecurity learners and practitioners, averaging approximately 20,000 monthly impressions across multiple social platforms.</li>
+    <li>Develop hands on labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management, detection engineering, AI security, and certification preparation.</li>
     <li>Translate realistic scenarios from Hack The Box, TryHackMe, CyberDefenders, CompTIA, and Blue Team Labs Online into practical learning content.</li>
   </ul>
 </div>
@@ -118,7 +122,7 @@ Through **DonkeySec**, I create practical cybersecurity education focused on SOC
 
   <ul>
     <li>Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues and reducing user downtime.</li>
-    <li>Assessed workstation security configurations, identified vulnerabilities, and implemented policy updates that improved compliance by 20%.</li>
+    <li>Assessed workstation security configurations, identified configuration gaps, and supported policy updates that improved compliance by 20%.</li>
     <li>Supported IT asset inventory tracking for over $1M in hardware and software.</li>
   </ul>
 </div>
@@ -146,6 +150,7 @@ Through **DonkeySec**, I create practical cybersecurity education focused on SOC
   <span>ISC2 Certified in Cybersecurity</span>
   <span>Cloud Security Alliance CCSK</span>
   <span>Cloud Security Alliance CCZT</span>
+  <span>Google Cybersecurity Certificate</span>
 </div>
 
 ## Links
