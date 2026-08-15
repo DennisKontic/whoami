@@ -1,4 +1,4 @@
-%PDF-1.3
+%PDF-1.4
 %ABCD ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
@@ -19,14 +19,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.linkedin.com/in/denniskontic)
->> /Border [ 0 0 0 ] /Rect [ 365 734 507 744 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 336.1725 731.8 448.2135 742.6 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://denniskontic.github.io/cybersecurity-lab-portfolio/)
->> /Border [ 0 0 0 ] /Rect [ 233 723 431 733 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 237.743 721.85 429.857 732.2 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -46,8 +46,8 @@ endobj
 endobj
 8 0 obj
 <<
-/Author (anonymous) /CreationDate (D:20260815145858+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260815145858+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (untitled) /Trapped /False
+/Author (Dennis Kontic) /CreationDate (D:20260815151721+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260815151721+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (Dennis Kontic Cybersecurity Resume) /Trapped /False
 >>
 endobj
 9 0 obj
@@ -57,185 +57,282 @@ endobj
 endobj
 10 0 obj
 <<
-/Length 10586
+/Length 11819
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-BT /F2 20 Tf 24 TL ET
+BT /F2 20.5 Tf 24.6 TL ET
 0 0 0 rg
-BT 1 0 0 1 227.11 753 Tm (DENNIS KONTIC) Tj T* ET
+BT 1 0 0 1 225.25 746.9 Tm (DENNIS KONTIC) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 182.35 723.75 Tm (Lab Portfolio: ) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 1 rg
+BT 1 0 0 1 237.85 723.75 Tm (denniskontic.github.io/cybersecurity-lab-portfolio) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 708.15 Tm (PROFESSIONAL SUMMARY) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 693.55 Tm (Cybersecurity professional currently performing security responsibilities at CarShield, including vulnerability scanning across endpoints ) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 683.2 Tm (supporting three affiliated companies, EDR alert triage and investigation, and IAM/PIM access control. Previous security operations ) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 672.85 Tm (experience includes triaging 10+ SIEM alerts daily, investigating phishing and malicious attachments, tuning false positives, incident ) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 662.5 Tm (response, detection engineering, and vulnerability management.) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 647.4 Tm (EXPERIENCE) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 632.8 Tm (CarShield - Level 1 IT Technician) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.9 632.8 Tm (Feb 2026 - Present) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 623.25 Tm (\177 Perform vulnerability scans across endpoints supporting three affiliated companies, identifying, documenting, and communicating security ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 613.6 Tm (findings for remediation.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 604 Tm (\177 Triage and investigate EDR alerts involving malicious endpoint activity, phishing, and vulnerability related events, validating affected systems, ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 594.35 Tm (documenting findings, and escalating higher risk incidents.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 584.75 Tm (\177 Administer IAM lifecycle and access control tasks including user provisioning and deprovisioning, permission changes, MFA, and Microsoft ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 575.1 Tm (Entra PIM to support least privilege access.) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 563.7 Tm (Ascend Learning - Information Security Intern) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 492.4 563.7 Tm (May 2025 - Aug 2025) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 554.15 Tm (\177 Investigated suspicious emails and analyzed malicious attachments using ANY.RUN and VirusTotal, contributing to the identification and ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 544.5 Tm (blocking of 50+ credential harvesting attempts.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 534.9 Tm (\177 Triaged and investigated 10+ security alerts daily within a SIEM, classifying events by severity and escalating verified high risk incidents to ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 525.25 Tm (senior analysts.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 515.65 Tm (\177 Analyzed high volume false positive alerts to identify tuning opportunities, reducing alert fatigue by 15% and saving approximately 5 analyst ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 506 Tm (hours per week.) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 494.6 Tm (St. Charles County Government - Information Systems Skilled Support Intern) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.9 494.6 Tm (Aug 2024 - Oct 2024) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 485.05 Tm (\177 Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 475.4 Tm (and reducing user downtime across departments.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 465.8 Tm (\177 Assessed workstation security configurations, identified configuration gaps, and supported policy updates that improved compliance by 20%.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 456.2 Tm (\177 Supported IT asset inventory tracking for over $1M in hardware and software, improving asset organization, inventory accuracy, and daily ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 446.55 Tm (operational visibility.) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 435.15 Tm (DonkeySec - Cybersecurity Content Creator) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 500.9 435.15 Tm (Mar 2025 - Present) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 425.6 Tm (\177 Create educational blue team content for 3,500+ cybersecurity learners and practitioners, averaging 20,000 monthly impressions across ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 415.95 Tm (multiple social platforms.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 406.35 Tm (\177 Develop hands on labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 396.7 Tm (vulnerability management, and detection engineering.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 387.1 Tm (\177 Analyze scenarios from Hack The Box, TryHackMe, CyberDefenders, CompTIA, and Blue Team Labs Online to translate advanced ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 377.45 Tm (cybersecurity challenges into accessible learning content.) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 362.3 Tm (PROJECTS) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 347.7 Tm (Enterprise MITRE ATT&CK Detection Engineering - Ascend Learning) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 338.15 Tm (\177 Designed a MITRE ATT&CK coverage matrix mapping 100% of available organizational telemetry to relevant tactics, techniques, and sub ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 328.5 Tm (techniques.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 318.9 Tm (\177 Developed and implemented three unique detection rules per technique across two SIEM platforms and one endpoint security platform, ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 309.25 Tm (reducing detection blind spots across the organization's defensive posture.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 299.65 Tm (\177 Validated detection logic through simulated adversary emulation, confirming alert generation across mapped ATT&CK techniques and ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 290 Tm (strengthening coverage across multiple threat severity levels.) Tj T* ET
+BT /F2 9 Tf 10.8 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 279.6 Tm (Enterprise Intrusion Analysis and Incident Response - Hack The Box CDSA) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 270.05 Tm (\177 Investigated a 7 day hands on incident response engagement simulating a compromised enterprise environment with phishing, command and ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 260.4 Tm (control, data exfiltration, malware execution, brute force authentication, DDoS, SQL injection, and XSS activity.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 250.8 Tm (\177 Analyzed attacker behavior, affected systems, and supporting evidence to reconstruct the full attack sequence across the compromised ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 241.15 Tm (environment.) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 231.55 Tm (\177 Produced a professional incident report detailing evidence based findings, remediation actions, and recommendations prioritized by business ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 41.85 221.9 Tm (risk and operational impact.) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 206.75 Tm (TECHNICAL SKILLS) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 192.95 Tm (SIEM and Detection: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 120.6 192.95 Tm (Splunk, Elastic, IBM QRadar, Microsoft Sentinel, Google SecOps) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 183.35 Tm (Endpoint and Security Tools: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 156.5 183.35 Tm (CrowdStrike Falcon, Microsoft Defender, SentinelOne, Microsoft Intune, Mimecast, Wireshark) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 173.75 Tm (IT Operations and Infrastructure: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 171.15 173.75 Tm (ServiceNow, Jira, LogicMonitor, NinjaOne, Cisco, Veeam, Microsoft Teams, Google Workspace) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 164.15 Tm (Forensics and Malware Analysis: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 172.1 164.15 Tm (ANY.RUN, VirusTotal) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 154.55 Tm (Offensive and Vulnerability: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 150.85 154.55 Tm (Forta, Burp Suite, Metasploit, Nessus, Nikto, OpenVAS) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 144.95 Tm (Cloud and Identity: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 115.4 144.95 Tm (Azure, AWS, Active Directory, Microsoft Entra ID, Server Manager, Okta) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 135.35 Tm (Frameworks and Compliance: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 159.35 135.35 Tm (MITRE ATT&CK, OWASP Top 10, CIA Triad, NIST, ISO 27001, HIPAA, GDPR, PCI DSS) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 125.75 Tm (Scripting and OS: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 110.2 125.75 Tm (Python, SQL, PowerShell, Bash, Linux, Windows, macOS, HTML) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 110.6 Tm (CERTIFICATIONS) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 96.79999 Tm (Defensive Operations: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 128.65 96.79999 Tm (CompTIA Security+, CompTIA CySA+, BTL1, HTB CDSA, HTB CJCA, SAL1, CCDL1) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 36.1 87.20001 Tm (Cloud and Foundational: ) Tj T* ET
+BT /F1 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 138.55 87.20001 Tm (CCSK, CCZT, ISC2 CC, Google Cybersecurity Certificate) Tj T* ET
+BT /F2 12.5 Tf 15 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 72.04999 Tm (EDUCATION) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 30.35 57.90002 Tm (Lindenwood University, Saint Charles, MO) Tj T* ET
+BT /F2 8.5 Tf 10.2 TL ET
+0 0 0 rg
+BT 1 0 0 1 494.9 57.90002 Tm (Graduated: May 2026) Tj T* ET
 BT /F1 8 Tf 9.6 TL ET
 0 0 0 rg
-BT 1 0 0 1 151.42 738 Tm (St. Louis, MO | 314-799-0837 | denniskontic@yahoo.com | linkedin.com/in/denniskontic) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 36.1 48.59998 Tm (BS in Cybersecurity, Minor in Business Administration | GPA: 3.94 / 4.0 | Summa Cum Laude | First Generation Graduate | Dean's List 2023 to 2026) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
 0 0 0 rg
-BT 1 0 0 1 195.956 727 Tm (Lab Portfolio: denniskontic.github.io/cybersecurity-lab-portfolio) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 712 Tm (PROFESSIONAL SUMMARY) Tj T* ET
-.8 w
-n 39 710 m 573 710 l S
-BT /F1 8 Tf 9.6 TL ET
-0 0 0 rg
-BT 1 0 0 1 39 699 Tm (Cybersecurity professional currently performing security responsibilities at CarShield, including vulnerability scanning across endpoints supporting) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-0 0 0 rg
-BT 1 0 0 1 39 689.6 Tm (three affiliated companies, EDR alert triage and investigation, and IAM/PIM access control. Previous security operations experience includes triaging) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-0 0 0 rg
-BT 1 0 0 1 39 680.2 Tm (10+ SIEM alerts daily, investigating phishing and malicious attachments, tuning false positives, incident response, detection engineering, and) Tj T* ET
-BT /F1 8 Tf 9.6 TL ET
-0 0 0 rg
-BT 1 0 0 1 39 670.8 Tm (vulnerability management.) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 659.4 Tm (EXPERIENCE) Tj T* ET
-.8 w
-n 39 657.4 m 573 657.4 l S
-BT /F2 8.6 Tf 10.32 TL ET
-BT 1 0 0 1 39 646.4 Tm (CarShield - Level 1 IT Technician) Tj T* ET
-BT 1 0 0 1 497.0018 646.4 Tm (Feb 2026 - Present) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 636.9 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 636.9 Tm (Perform vulnerability scans across endpoints supporting three affiliated companies, identifying, documenting, and communicating security findings for) Tj T* ET
-BT 1 0 0 1 49 627.7 Tm (remediation.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 618.5 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 618.5 Tm (Triage and investigate EDR alerts involving malicious endpoint activity, phishing, and vulnerability related events, validating affected systems, documenting) Tj T* ET
-BT 1 0 0 1 49 609.3 Tm (findings, and escalating higher risk incidents.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 600.1 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 600.1 Tm (Administer IAM lifecycle and access control tasks including user provisioning and deprovisioning, permission changes, MFA, and Microsoft Entra PIM to support) Tj T* ET
-BT 1 0 0 1 49 590.9 Tm (least privilege access.) Tj T* ET
-BT /F2 8.6 Tf 10.32 TL ET
-BT 1 0 0 1 39 579.9 Tm (Ascend Learning - Information Security Intern) Tj T* ET
-BT 1 0 0 1 488.8748 579.9 Tm (May 2025 - Aug 2025) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 570.4 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 570.4 Tm (Investigated suspicious emails and analyzed malicious attachments using ANY.RUN and VirusTotal, contributing to the identification and blocking of 50+) Tj T* ET
-BT 1 0 0 1 49 561.2 Tm (credential harvesting attempts.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 552 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 552 Tm (Triaged and investigated 10+ security alerts daily within a SIEM, classifying events by severity and escalating verified high risk incidents to senior analysts.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 542.8 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 542.8 Tm (Analyzed high volume false positive alerts to identify tuning opportunities, reducing alert fatigue by 15% and saving approximately 5 analyst hours per week.) Tj T* ET
-BT /F2 8.6 Tf 10.32 TL ET
-BT 1 0 0 1 39 531.8 Tm (St. Charles County Government - Information Systems Skilled Support Intern) Tj T* ET
-BT 1 0 0 1 491.2656 531.8 Tm (Aug 2024 - Oct 2024) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 522.3 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 522.3 Tm (Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues and reducing) Tj T* ET
-BT 1 0 0 1 49 513.1 Tm (user downtime across departments.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 503.9 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 503.9 Tm (Assessed workstation security configurations, identified configuration gaps, and supported policy updates that improved compliance by 20%.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 494.7 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 494.7 Tm (Supported IT asset inventory tracking for over $1M in hardware and software, improving asset organization, inventory accuracy, and daily operational visibility.) Tj T* ET
-BT /F2 8.6 Tf 10.32 TL ET
-BT 1 0 0 1 39 483.7 Tm (DonkeySec - Cybersecurity Content Creator) Tj T* ET
-BT 1 0 0 1 497.0018 483.7 Tm (Mar 2025 - Present) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 474.2 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 474.2 Tm (Create educational blue team content for 3,500+ cybersecurity learners and practitioners, averaging 20,000 monthly impressions across multiple social) Tj T* ET
-BT 1 0 0 1 49 465 Tm (platforms.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 455.8 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 455.8 Tm (Develop hands on labs and tutorials focused on SOC analysis, digital forensics, incident response, threat hunting, malware analysis, vulnerability management,) Tj T* ET
-BT 1 0 0 1 49 446.6 Tm (and detection engineering.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 437.4 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 437.4 Tm (Analyze scenarios from Hack The Box, TryHackMe, CyberDefenders, CompTIA, and Blue Team Labs Online to translate advanced cybersecurity challenges) Tj T* ET
-BT 1 0 0 1 49 428.2 Tm (into accessible learning content.) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 417.2 Tm (PROJECTS) Tj T* ET
-.8 w
-n 39 415.2 m 573 415.2 l S
-BT /F2 8.6 Tf 10.32 TL ET
-0 0 0 rg
-BT 1 0 0 1 46 404.2 Tm (Enterprise MITRE ATT&CK Detection Engineering - Ascend Learning) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 394.7 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 394.7 Tm (Designed a MITRE ATT&CK coverage matrix mapping 100% of available organizational telemetry to relevant tactics, techniques, and sub techniques.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 385.5 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 385.5 Tm (Developed and implemented three unique detection rules per technique across two SIEM platforms and one endpoint security platform, reducing detection blind) Tj T* ET
-BT 1 0 0 1 49 376.3 Tm (spots across the organization's defensive posture.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 367.1 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 367.1 Tm (Validated detection logic through simulated adversary emulation, confirming alert generation across mapped ATT&CK techniques and strengthening coverage) Tj T* ET
-BT 1 0 0 1 49 357.9 Tm (across multiple threat severity levels.) Tj T* ET
-BT /F2 8.6 Tf 10.32 TL ET
-0 0 0 rg
-BT 1 0 0 1 46 348.7 Tm (Enterprise Intrusion Analysis and Incident Response - Hack The Box CDSA) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 339.2 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 339.2 Tm (Investigated a 7 day hands on incident response engagement simulating a compromised enterprise environment with phishing, command and control, data) Tj T* ET
-BT 1 0 0 1 49 330 Tm (exfiltration, malware execution, brute force authentication, DDoS, SQL injection, and XSS activity.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 320.8 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 320.8 Tm (Analyzed attacker behavior, affected systems, and supporting evidence to reconstruct the full attack sequence across the compromised environment.) Tj T* ET
-BT /F1 7.35 Tf 8.82 TL ET
-BT 1 0 0 1 44 311.6 Tm (\177) Tj T* ET
-BT 1 0 0 1 49 311.6 Tm (Produced a professional incident report detailing evidence based findings, remediation actions, and recommendations prioritized by business risk and) Tj T* ET
-BT 1 0 0 1 49 302.4 Tm (operational impact.) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 292.2 Tm (TECHNICAL SKILLS) Tj T* ET
-.8 w
-n 39 290.2 m 573 290.2 l S
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 279.2 Tm (SIEM and Detection:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 121.5896 279.2 Tm (Splunk, Elastic, IBM QRadar, Microsoft Sentinel, Google SecOps) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 270.5 Tm (Endpoint and Security Tools:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 153.6844 270.5 Tm (CrowdStrike Falcon, Microsoft Defender, SentinelOne, Microsoft Intune, Mimecast, Wireshark) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 261.8 Tm (IT Operations and Infrastructure:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 166.7792 261.8 Tm (ServiceNow, Jira, LogicMonitor, NinjaOne, Cisco, Veeam, Microsoft Teams, Google Workspace) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 253.1 Tm (Forensics and Malware Analysis:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 167.6456 253.1 Tm (ANY.RUN, VirusTotal) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 244.4 Tm (Offensive and Vulnerability:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 148.6304 244.4 Tm (Forta, Burp Suite, Metasploit, Nessus, Nikto, OpenVAS) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 235.7 Tm (Cloud and Identity:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 116.9384 235.7 Tm (Azure, AWS, Active Directory, Microsoft Entra ID, Server Manager, Okta) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 227 Tm (Frameworks and Compliance:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 156.2304 227 Tm (MITRE ATT&CK, OWASP Top 10, CIA Triad, NIST, ISO 27001, HIPAA, GDPR, PCI DSS) Tj T* ET
-BT /F2 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 46 218.3 Tm (Scripting and OS:) Tj T* ET
-BT /F1 7.6 Tf 9.12 TL ET
-BT 1 0 0 1 112.3024 218.3 Tm (Python, SQL, PowerShell, Bash, Linux, Windows, macOS, HTML) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 209.6 Tm (CERTIFICATIONS) Tj T* ET
-.8 w
-n 39 207.6 m 573 207.6 l S
-BT /F2 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 46 196.6 Tm (Defensive Operations:) Tj T* ET
-BT /F1 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 129.8684 196.6 Tm (CompTIA Security+, CompTIA CySA+, BTL1, HTB CDSA, HTB CJCA, SAL1, CCDL1) Tj T* ET
-BT /F2 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 46 187.6 Tm (Cloud and Foundational:) Tj T* ET
-BT /F1 7.7 Tf 9.24 TL ET
-BT 1 0 0 1 138.8312 187.6 Tm (CCSK, CCZT, ISC2 CC, Google Cybersecurity Certificate) Tj T* ET
-BT /F2 13.5 Tf 16.2 TL ET
-BT 1 0 0 1 39 176.6 Tm (EDUCATION) Tj T* ET
-.8 w
-n 39 174.6 m 573 174.6 l S
-BT /F2 8.2 Tf 9.84 TL ET
-BT 1 0 0 1 39 163.6 Tm (Lindenwood University, Saint Charles, MO) Tj T* ET
-BT 1 0 0 1 490.5162 163.6 Tm (Graduated: May 2026) Tj T* ET
-BT /F1 7.5 Tf 9 TL ET
-0 0 0 rg
-BT 1 0 0 1 39 154.1 Tm (BS in Cybersecurity, Minor in Business Administration | GPA: 3.94 / 4.0 | Summa Cum Laude | First Generation Graduate | Dean's List 2023 to 2026) Tj T* ET
+BT 1 0 0 1 163.7865 734.1 Tm (St. Louis, MO | denniskontic@yahoo.com | ) Tj T* ET
+0 0 1 rg
+BT 1 0 0 1 336.1725 734.1 Tm (linkedin.com/in/denniskontic) Tj T* ET
+0 0 1 RG
+.5 w
+n 336.1725 733.1 m 448.2135 733.1 l S
+0 0 1 RG
+.5 w
+n 237.85 722.75 m 429.85 722.75 l S
+0 0 0 RG
+1 w
+n 581.75 704.05 m 30.3 704.05 l S
+0 0 0 RG
+1 w
+n 581.75 643.25 m 30.3 643.25 l S
+0 0 0 RG
+1 w
+n 581.75 358.15 m 30.3 358.15 l S
+0 0 0 RG
+1 w
+n 581.75 202.65 m 30.3 202.65 l S
+0 0 0 RG
+1 w
+n 581.75 106.45 m 30.3 106.45 l S
+0 0 0 RG
+1 w
+n 581.75 67.95001 m 30.3 67.95001 l S
  
 endstream
 endobj
@@ -246,16 +343,16 @@ xref
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
-0000000493 00000 n 
-0000000684 00000 n 
-0000000902 00000 n 
-0000000970 00000 n 
-0000001231 00000 n 
-0000001290 00000 n 
+0000000507 00000 n 
+0000000711 00000 n 
+0000000929 00000 n 
+0000000997 00000 n 
+0000001288 00000 n 
+0000001347 00000 n 
 trailer
 <<
 /ID 
-[<682df0232a9423b152e6ee4a46bf997f><682df0232a9423b152e6ee4a46bf997f>]
+[<97196a178bae53875280dca6f873c2b8><97196a178bae53875280dca6f873c2b8>]
 % ReportLab generated PDF document -- digest (opensource)
 
 /Info 8 0 R
@@ -263,5 +360,5 @@ trailer
 /Size 11
 >>
 startxref
-11929
+13219
 %%EOF
