@@ -88,9 +88,16 @@ My experience combines hands on security operations, enterprise IT support, cybe
 <div class="experience-card">
   <div class="experience-heading">
     <div class="experience-main">
-      <h3>Semi Professional Soccer Referee</h3>
-      <p><strong>U.S. Soccer Federation</strong> · Contract · On site</p>
+      <h3>U.S. Soccer Federation</h3>
+      <p><strong>Soccer Referee</strong> · Contract · On site</p>
       <p class="experience-location">United States</p>
+    </div>
+    <div class="experience-date">Jul 2022 to Present</div>
+  </div>
+
+  <div class="experience-heading" style="margin-top: 28px;">
+    <div class="experience-main">
+      <h4 style="margin-bottom: 4px;">Semi Professional Soccer Referee</h4>
     </div>
     <div class="experience-date">Jun 2023 to Present</div>
   </div>
@@ -99,6 +106,21 @@ My experience combines hands on security operations, enterprise IT support, cybe
     <li>Officiate competitive matches across semi professional environments, making real time decisions under pressure while managing communication between players, coaches, and referee crews.</li>
     <li>Lead pre match briefings and coordinate in game communication to maintain consistency, reduce confusion, and support accurate decision making.</li>
     <li>Have officiated leagues including USL League Two, USL W League, NPSL, WPSL, MWPL, and UPSL.</li>
+  </ul>
+
+  <hr style="border: 0; border-top: 1px solid #263244; margin: 28px 0;">
+
+  <div class="experience-heading">
+    <div class="experience-main">
+      <h4 style="margin-bottom: 4px;">Youth Soccer Referee</h4>
+    </div>
+    <div class="experience-date">Jul 2022 to Jun 2023</div>
+  </div>
+
+  <ul>
+    <li>Refereed competitive youth leagues including MLS NEXT, MLS NEXT 2, GA, ECNL, ECNL RL, EAL, NAL, Elite 64, MWC, NPL, DPL, ODP, Aspire, Missouri State Cup, and Missouri Presidents Cup.</li>
+    <li>Attended major regional events including Midwest Regional Championships, Midwest Regional Presidents Cup, and Midwest Conference Showcase.</li>
+    <li>Earned Young Missouri Referee of the Year for 2022 to 2023.</li>
   </ul>
 </div>
 
@@ -116,23 +138,6 @@ My experience combines hands on security operations, enterprise IT support, cybe
     <li>Officiate Division II, Division III, NAIA, and JUCO college soccer matches.</li>
     <li>Apply consistent judgment, positioning, communication, and game management across competitive college environments.</li>
     <li>Work with referee crews to support accurate decisions, professional match control, and effective team communication.</li>
-  </ul>
-</div>
-
-<div class="experience-card">
-  <div class="experience-heading">
-    <div class="experience-main">
-      <h3>Youth Soccer Referee</h3>
-      <p><strong>U.S. Soccer Federation</strong> · Contract · On site</p>
-      <p class="experience-location">United States</p>
-    </div>
-    <div class="experience-date">Jul 2022 to Jun 2023</div>
-  </div>
-
-  <ul>
-    <li>Refereed competitive youth leagues including MLS NEXT, MLS NEXT 2, GA, ECNL, ECNL RL, EAL, NAL, Elite 64, MWC, NPL, DPL, ODP, Aspire, Missouri State Cup, and Missouri Presidents Cup.</li>
-    <li>Attended major regional events including Midwest Regional Championships, Midwest Regional Presidents Cup, and Midwest Conference Showcase.</li>
-    <li>Earned Young Missouri Referee of the Year for 2022 to 2023.</li>
   </ul>
 </div>
 
