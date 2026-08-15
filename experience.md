@@ -80,7 +80,7 @@ My experience combines hands on security operations, enterprise IT support, cybe
 
   <ul>
     <li>Provided first level technical support across a 10,000+ user base, achieving an 80% first contact resolution rate while escalating complex issues and reducing user downtime across departments.</li>
-    <li>Assessed workstation security configurations, identified vulnerabilities, and implemented policy updates that improved compliance by 20%.</li>
+    <li>Assessed workstation security configurations, identified configuration gaps, and supported policy updates that improved compliance by 20%.</li>
     <li>Supported IT asset inventory tracking for over $1M in hardware and software, improving asset organization, inventory accuracy, and operational visibility.</li>
   </ul>
 </div>
