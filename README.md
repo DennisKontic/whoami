@@ -1,7 +1,5 @@
 # Dennis Kontic
 
-**Cybersecurity Professional | Blue Team Operations | Vulnerability Management | Incident Response | Endpoint Security | IAM**
-
 <div class="button-grid top-buttons">
   <a class="primary-button" href="https://denniskontic.github.io/cybersecurity-lab-portfolio/">Cybersecurity Lab Portfolio</a>
   <a class="secondary-button" href="https://www.youtube.com/@DonkeySec">DonkeySec YouTube</a>
