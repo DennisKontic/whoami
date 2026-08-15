@@ -137,7 +137,7 @@ Through **DonkeySec**, I create practical cybersecurity education focused on SOC
 <div class="cert-grid">
   <span>HTB Certified Offensive AI Expert (COAE)</span>
   <span>HTB Certified Defensive Security Analyst (CDSA)</span>
-  <span>HTB Certified Junior Cybersecurity Analyst (CJCA)</span>
+  <span>HTB Certified Junior Cybersecurity Associate (CJCA)</span>
   <span>Security Blue Team BTL1</span>
   <span>CompTIA CySA+</span>
   <span>CompTIA Security+</span>
